@@ -1,0 +1,177 @@
+---
+title: " "
+pagetitle: "CV — Hermes Fernández"
+---
+
+```{=html}
+<!-- Índice tipo Wikipedia (flota a la derecha) -->
+<div class="cv-toc">
+  <div class="toc-title">Contenido</div>
+  <ol>
+    <li><a href="#experiencia-laboral">Experiencia laboral</a></li>
+    <li><a href="#formacion-academica">Formación académica</a></li>
+    <li><a href="#eventos-academicos">Eventos académicos</a></li>
+    <li><a href="#habilidades-tecnicas">Habilidades técnicas</a></li>
+    <li><a href="#idiomas">Idiomas</a></li>
+  </ol>
+</div>
+
+<!-- Cabecera del CV -->
+<div class="cv-header">
+  <h1>Hermes Fernández</h1>
+  <div class="cv-subtitle"><strong>Sociología · Economía · Datos</strong></div>
+  <div class="cv-meta">
+    Ciudad de Buenos Aires<br>
+    <a href="mailto:hermesbv21@gmail.com">hermesbv21@gmail.com</a> · +54 9 11 6288-2108<br>
+    <a href="https://www.linkedin.com/in/hermes-fernandez/" target="_blank">linkedin.com/in/hermes-fernandez</a> ·
+    <a href="https://github.com/HermesBV/" target="_blank">github.com/HermesBV</a>
+  </div>
+</div>
+
+<!-- EXPERIENCIA LABORAL -->
+<div class="cv-section" id="experiencia-laboral">
+  <h2>1. Experiencia laboral</h2>
+
+  <div class="cv-entry">
+    <div class="entry-title">Coordinador de Datos del Área Macro</div>
+    <div class="entry-org">IIEP · FCE-UBA</div>
+    <div class="entry-period">Abril 2026 – actualidad</div>
+    <div class="entry-desc">Soporte y desarrollo de la web app Series Macro y bases de datos.</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">Docente Ayudante</div>
+    <div class="entry-org">Lic. en Economía · FCE-UBA</div>
+    <div class="entry-period">2025 – actualidad</div>
+    <div class="entry-desc">"Tópicos de Macroeconomía Avanzada" — Dr. Pablo Mira.</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">Becario Estímulo UBACyT</div>
+    <div class="entry-org">IIEP · FCE-UBA</div>
+    <div class="entry-period">2024 – actualidad</div>
+    <div class="entry-desc">"Bases de datos e indicadores macro para la economía argentina" — Dr. Daniel Heymann.</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">Analista IT</div>
+    <div class="entry-org">Procom Informática SRL</div>
+    <div class="entry-period">2021 – 2026</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">Pasantía</div>
+    <div class="entry-org">Secretaría de Política Económica · MECON</div>
+    <div class="entry-period">2021 – 2022</div>
+  </div>
+</div>
+
+<!-- FORMACIÓN ACADÉMICA -->
+<div class="cv-section" id="formacion-academica">
+  <h2>2. Formación académica</h2>
+
+  <div class="cv-entry">
+    <div class="entry-title">Colaborador · Informes Mensuales de Coyuntura Macroeconómica</div>
+    <div class="entry-org">IIEP · FCE-UBA</div>
+    <div class="entry-period">Abril 2025 – actualidad</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">Beca UBA-INT · Intercambio de grado</div>
+    <div class="entry-org">UNAM · Ciudad de México</div>
+    <div class="entry-period">2026</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">PIVAS · "Historias que nos debemos"</div>
+    <div class="entry-org">UBA · FSOC</div>
+    <div class="entry-period">2023</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">Licenciatura en Sociología</div>
+    <div class="entry-org">UBA · FSOC</div>
+    <div class="entry-period">2019 – actualidad</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">Bachiller</div>
+    <div class="entry-org">Colegio Nacional de Buenos Aires</div>
+    <div class="entry-period">2013 – 2018</div>
+  </div>
+</div>
+
+<!-- EVENTOS ACADÉMICOS -->
+<div class="cv-section" id="eventos-academicos">
+  <h2>3. Eventos académicos</h2>
+
+  <div class="cv-entry">
+    <div class="entry-title">Workshop de Indicadores Macro — IIEP</div>
+    <div class="entry-org">FCE-UBA</div>
+    <div class="entry-period">Diciembre 2025</div>
+    <div class="entry-desc">"Presentación de la web app Series Macro del IIEP"</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">XVI Jornadas de Sociología</div>
+    <div class="entry-org">UBA · FSOC</div>
+    <div class="entry-period">Noviembre 2025</div>
+    <div class="entry-desc">"Crisis y violencia. Hacia una reformulación crítica del fenómeno Bukele"</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">XII Jornada Científica de Becarios UBACyT</div>
+    <div class="entry-org">UBA</div>
+    <div class="entry-period">Abril 2025</div>
+    <div class="entry-desc">Pitch de línea de investigación como becario UBACyT en el área Macro del IIEP-FCE.</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">Expectativas, inflación y crisis: 75 años de Daniel Heymann</div>
+    <div class="entry-org">UBA · FCE</div>
+    <div class="entry-period">Diciembre 2024</div>
+    <div class="entry-desc">Moderación del panel de apertura: Martín Guzmán, Andrés López, Pablo Sanguinetti.</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">XII Jornadas de Sociología</div>
+    <div class="entry-org">UNLP · FAHCE</div>
+    <div class="entry-period">Diciembre 2024</div>
+    <div class="entry-desc">"Estructura social y económica de El Salvador (1931 – 2023)"</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">XV Jornadas de Sociología</div>
+    <div class="entry-org">UBA · FSOC</div>
+    <div class="entry-period">Noviembre 2023</div>
+    <div class="entry-desc">"Transición hacia una heterogeneidad de homogeneidades: ¿Cómo se estructura la sociedad sobre la que permea el fascismo en 2023?"</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">Charla de Sophie Thonon</div>
+    <div class="entry-org">UBA · FSOC</div>
+    <div class="entry-period">Abril 2023</div>
+    <div class="entry-desc">Moderación: Los crímenes de Lesa Humanidad cometidos en Argentina y Chile ante la justicia francesa.</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="entry-title">XIV Jornadas de Sociología</div>
+    <div class="entry-org">UBA · FSOC</div>
+    <div class="entry-period">Noviembre 2021</div>
+    <div class="entry-desc">"Historia, evolución y origen del discurso papal respecto del uso del preservativo: 1968 – Presente"</div>
+  </div>
+</div>
+
+<!-- HABILIDADES TÉCNICAS -->
+<div class="cv-section" id="habilidades-tecnicas">
+  <h2>4. Habilidades técnicas</h2>
+  <p>SQL · Python · Streamlit · IIS · VM Services · Visualización interactiva · Paquete Office · Hardware</p>
+</div>
+
+<!-- IDIOMAS -->
+<div class="cv-section" id="idiomas">
+  <h2>5. Idiomas</h2>
+  <p><strong>Inglés:</strong> nivel avanzado (redacción y comunicación fluidas)<br>
+  <strong>Francés:</strong> nivel básico (5 años en educación secundaria)</p>
+</div>
+```

@@ -1,0 +1,41 @@
+---
+title: "📜 Publicaciones"
+---
+
+Hacé clic en los enlaces para abrir los documentos en una pestaña nueva.
+
+---
+
+## Escritos Propios
+
+| Año | Título | |
+|-----|--------|---|
+| 2025 | Crisis y violencia. Hacia una reformulación crítica del fenómeno Bukele | <a href="Escritos/Crisis y violencia. Hacia una reformulación crítica del fenómeno Bukele (2025).pdf" target="_blank">📄 PDF</a> |
+| 2024 | Estructura social y económica de El Salvador (1931 - 2023) | <a href="Escritos/Estructura social y económica de El Salvador 1931 - 2023 (2024).pdf" target="_blank">📄 PDF</a> |
+| 2023 | Transición hacia una heterogeneidad de homogeneidades: ¿Cómo se estructura la sociedad sobre la que permea el fascismo en 2023? | <a href="Escritos/Het-Hom (2023).pdf" target="_blank">📄 PDF</a> |
+| 2021 | Historia, evolución y origen del discurso papal respecto del uso del preservativo: 1968 - Presente | <a href="Escritos/Genealogía papal preservativo (2021).pdf" target="_blank">📄 PDF</a> |
+
+---
+
+## Colaboraciones
+
+**2025–26**: Informes de coyuntura macroeconómica · IIEP-Macro, FCE-UBA
+
+::: {.callout-note collapse="true"}
+## Ver todos los informes
+
+| Número | Título | |
+|--------|--------|---|
+| N° 12 — Abril 2026 | La inflación bajo la lupa | <a href="Escritos/Informe macroeconómico N 12.pdf" target="_blank">📄 PDF</a> |
+| N° 11 — Marzo 2026 | La economía crece, pero con importantes contrapuntos | <a href="Escritos/Informe macroeconómico N 11.pdf" target="_blank">📄 PDF</a> |
+| N° 10 — Febrero 2026 | Una de cal y una de arena para la deuda pública nacional | <a href="Escritos/Informe macroeconómico N 10.pdf" target="_blank">📄 PDF</a> |
+| N° 9 — Enero 2026 | Una brevísima historia macroeconómica del 2025 | <a href="Escritos/Informe macroeconómico N 9.pdf" target="_blank">📄 PDF</a> |
+| N° 8 — Diciembre 2025 | Depreciación sin traspaso a precios, ¿a qué se debe? | <a href="Escritos/Informe macroeconómico N 8.pdf" target="_blank">📄 PDF</a> |
+| N° 7 — Noviembre 2025 | Retorno del déficit externo y escasez de reservas | <a href="Escritos/Informe macroeconómico N 7.pdf" target="_blank">📄 PDF</a> |
+| N° 6 — Octubre 2025 | Un nuevo prestamista abre la oportunidad para comprar reservas | <a href="Escritos/Informe macroeconómico N 6.pdf" target="_blank">📄 PDF</a> |
+| N° 5 — Septiembre 2025 | El nuevo esquema monetario estresa el panorama financiero y afecta la actividad económica | <a href="Escritos/Informe macroeconómico N 5.pdf" target="_blank">📄 PDF</a> |
+| N° 4 — Agosto 2025 | La desinflación continúa, pero el plan de estabilización recién comienza | <a href="Escritos/Informe macroeconómico N 4.pdf" target="_blank">📄 PDF</a> |
+| N° 3 — Julio 2025 | Anatomía de una Recuperación Heterogénea | <a href="Escritos/Informe macroeconómico N 3.pdf" target="_blank">📄 PDF</a> |
+| N° 2 — Junio 2025 | Superávit fiscal y estrategia financiera del Tesoro | <a href="Escritos/Informe macroeconómico N 2.pdf" target="_blank">📄 PDF</a> |
+| N° 1 — Mayo 2025 | Nuevo esquema de flotación entre bandas cambiarias | <a href="Escritos/Informe macroeconómico N 1.pdf" target="_blank">📄 PDF</a> |
+:::

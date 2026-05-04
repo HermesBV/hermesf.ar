@@ -1,0 +1,26 @@
+---
+title: " "
+pagetitle: "Hermes Fernández"
+---
+
+```{=html}
+<div class="hero">
+  <div class="hero-photo">
+    <img src="img/foto.jpg" alt="Hermes Fernández">
+  </div>
+  <div class="hero-text">
+    <h1>Hermes Fernández</h1>
+    <div class="subtitle">Sociología, economía, datos y otras hierbas · 26 años</div>
+    <div class="contact-links">
+      <a href="https://www.linkedin.com/in/hermes-fernandez/" target="_blank">🔗 LinkedIn</a>
+      <a href="mailto:hermesbv21@gmail.com">📧 hermesbv21@gmail.com</a>
+      <a href="https://github.com/HermesBV/" target="_blank">💻 GitHub</a>
+      <span><i class="bi bi-whatsapp"></i> <a href="https://wa.me/5491162882108" target="_blank">+54 9 11 6288-2108</a></span>
+    </div>
+  </div>
+</div>
+```
+
+Bienvenid@ a mi sitio personal. Aquí vas a poder encontrar mi [CV](pages/cv.qmd), [publicaciones académicas](pages/publicaciones.qmd) y mi [biblioteca virtual](pages/vbiblioteca.qmd).
+
+Ante cualquier consulta escribime a [hermesbv21@gmail.com](mailto:hermesbv21@gmail.com).

@@ -1,0 +1,288 @@
+/* ── Google Fonts ──────────────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;500;600&display=swap');
+
+/* ── Variables ─────────────────────────────────────────────────────────── */
+:root {
+  --green-darkest:  #1b4332;
+  --green-dark:     #2d6a4f;
+  --green-mid:      #40916c;
+  --green-light:    #b7e4c7;
+  --green-pale:     #f0faf4;
+  --bg:             #fafaf8;
+  --surface:        #ffffff;
+  --border:         #dde5e0;
+  --text:           #1c1c1c;
+  --text-muted:     #6b7c72;
+}
+
+/* ── Base ──────────────────────────────────────────────────────────────── */
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 400;
+  background-color: var(--bg);
+  color: var(--text);
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+/* ── Width: fill the screen ────────────────────────────────────────────── */
+.page-columns.page-full {
+  max-width: 100% !important;
+}
+#quarto-content {
+  max-width: 100% !important;
+  padding: 2rem 3rem 4rem !important;
+}
+.page-columns {
+  max-width: 100% !important;
+}
+#quarto-document-content {
+  max-width: 100% !important;
+}
+
+/* ── Navbar ────────────────────────────────────────────────────────────── */
+.navbar {
+  border-bottom: 3px solid var(--green-mid) !important;
+  padding: 0.6rem 2rem;
+}
+.navbar-brand {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.15rem !important;
+  letter-spacing: 0.02em;
+}
+.navbar-nav .nav-link {
+  font-size: 0.88rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.4rem 1rem !important;
+  transition: color 0.2s;
+}
+.navbar-nav .nav-link:hover { color: var(--green-light) !important; }
+
+/* ── Headings ──────────────────────────────────────────────────────────── */
+h1.title {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.3rem;
+  font-weight: 700;
+  color: var(--green-darkest);
+  border-bottom: 2px solid var(--green-mid);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.8rem;
+}
+h2 { font-family: 'Playfair Display', serif; color: var(--green-dark); margin-top: 2rem; }
+h3 {
+  font-family: 'Playfair Display', serif;
+  color: var(--green-dark);
+  font-size: 1.15rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.4rem;
+  border-left: 3px solid var(--green-mid);
+  padding-left: 0.7rem;
+}
+
+/* ── Links ─────────────────────────────────────────────────────────────── */
+a, a:visited { color: var(--green-mid); text-decoration: none; }
+a:hover { color: var(--green-dark); text-decoration: underline; }
+
+/* ── Dividers ──────────────────────────────────────────────────────────── */
+hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+
+/* ── Tables (publicaciones) ────────────────────────────────────────────── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  margin-bottom: 1.5rem;
+}
+table thead th {
+  background-color: var(--green-darkest);
+  color: var(--green-pale);
+  padding: 10px 14px;
+  font-weight: 600;
+  font-size: 0.82rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+table tbody td { padding: 9px 14px; border-bottom: 1px solid var(--border); vertical-align: top; }
+table tbody tr:hover td { background: var(--green-pale); }
+
+/* ── Callouts ──────────────────────────────────────────────────────────── */
+.callout { border-left: 4px solid var(--green-mid) !important; background: var(--green-pale) !important; border-radius: 4px; }
+.callout .callout-title { color: var(--green-dark) !important; font-weight: 600; }
+
+/* ── Footer ────────────────────────────────────────────────────────────── */
+#quarto-footer { font-size: 0.85rem; }
+
+/* ══ INICIO — Hero con foto circular ══════════════════════════════════════ */
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  padding: 1.5rem 0 2.5rem;
+  flex-wrap: wrap;
+  max-width: 800px;
+}
+.hero-photo img {
+  width: 160px; height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid var(--green-mid);
+  box-shadow: 0 4px 20px rgba(45,106,79,0.2);
+}
+.hero-photo .photo-placeholder {
+  width: 160px; height: 160px;
+  border-radius: 50%;
+  background: var(--green-pale);
+  border: 4px dashed var(--green-mid);
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  text-align: center;
+  line-height: 1.4;
+  padding: 12px;
+}
+.hero-text h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.4rem; font-weight: 700;
+  color: var(--green-darkest);
+  margin: 0 0 0.3rem;
+  border: none; padding: 0;
+}
+.hero-text .subtitle {
+  color: var(--text-muted);
+  font-size: 1rem; font-weight: 300;
+  margin-bottom: 1rem; letter-spacing: 0.02em;
+}
+.hero-text .contact-links {
+  display: flex; flex-wrap: wrap;
+  gap: 0.4rem 1.2rem; font-size: 0.9rem;
+}
+.hero-text .contact-links a { color: var(--green-dark); font-weight: 500; }
+.hero-text .contact-links a:hover { text-decoration: underline; }
+
+/* ══ CV — Estilo tipo bustosthl ═══════════════════════════════════════════ */
+.cv-header { margin-bottom: 2rem; }
+.cv-header h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.4rem; font-weight: 700;
+  color: var(--green-darkest);
+  border: none; padding: 0; margin-bottom: 0.15rem;
+}
+.cv-header .cv-subtitle {
+  font-size: 1rem; font-weight: 400;
+  color: var(--text-muted); margin-bottom: 0.8rem;
+}
+.cv-header .cv-meta { font-size: 0.92rem; color: var(--text-muted); line-height: 1.8; }
+.cv-header .cv-meta a { color: var(--green-mid); }
+
+/* Caja de índice tipo Wikipedia */
+.cv-toc {
+  float: right;
+  clear: right;
+  margin: 0 0 1.5rem 2rem;
+  padding: 12px 18px 14px;
+  background: var(--green-pale);
+  border: 1px solid var(--green-light);
+  border-radius: 4px;
+  font-size: 0.88rem;
+  min-width: 200px;
+  max-width: 260px;
+}
+.cv-toc .toc-title {
+  font-weight: 700;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--green-darkest);
+  margin-bottom: 8px;
+}
+.cv-toc ol {
+  margin: 0; padding-left: 1.2rem;
+  list-style: decimal;
+}
+.cv-toc li { margin-bottom: 3px; }
+.cv-toc a {
+  color: var(--green-dark);
+  font-size: 0.87rem;
+  text-decoration: none;
+  border-bottom: 1px dotted transparent;
+}
+.cv-toc a:hover { border-bottom-color: var(--green-mid); }
+
+/* Separador de sección CV */
+.cv-section { margin-top: 2.2rem; }
+.cv-section h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  color: var(--green-darkest);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 4px;
+  margin-bottom: 1rem;
+}
+.cv-entry { margin-bottom: 1.4rem; }
+.cv-entry .entry-title { font-weight: 600; font-size: 1rem; color: var(--text); }
+.cv-entry .entry-org { color: var(--green-mid); font-style: italic; font-size: 0.95rem; }
+.cv-entry .entry-period { color: var(--text-muted); font-size: 0.88rem; }
+.cv-entry .entry-desc { margin-top: 0.2rem; font-size: 0.95rem; color: #333; }
+
+/* ══ vBIBLIOTECA ══════════════════════════════════════════════════════════ */
+.bib-search-row {
+  display: flex; gap: 1rem; margin-bottom: 1rem; flex-wrap: wrap;
+}
+.bib-search-row label {
+  display: flex; flex-direction: column; gap: 4px;
+  flex: 1; min-width: 220px;
+  font-size: 0.82rem; color: var(--text-muted);
+  font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;
+}
+.bib-search-row input {
+  padding: 8px 12px;
+  border: 1px solid var(--border); border-radius: 4px;
+  background: var(--surface); color: var(--text);
+  font-size: 0.95rem; font-family: 'Source Sans 3', sans-serif;
+  transition: border-color 0.2s;
+  width: 100%;
+}
+.bib-search-row input:focus {
+  outline: none;
+  border-color: var(--green-mid);
+  box-shadow: 0 0 0 3px rgba(64,145,108,0.12);
+}
+#bib-count { font-size: 0.82rem; color: var(--text-muted); margin-bottom: 0.5rem; }
+
+/* Tabla: usa el ancho COMPLETO disponible */
+#bib-wrap { width: 100%; overflow-x: auto; }
+#bib-table {
+  width: 100%; min-width: 700px;
+  border-collapse: collapse; font-size: 0.9rem;
+  table-layout: fixed;
+}
+#bib-table colgroup col:nth-child(1) { width: 35%; }
+#bib-table colgroup col:nth-child(2) { width: 22%; }
+#bib-table colgroup col:nth-child(3) { width: 18%; }
+#bib-table colgroup col:nth-child(4) { width: 7%; }
+#bib-table colgroup col:nth-child(5) { width: 11%; }
+#bib-table colgroup col:nth-child(6) { width: 7%; }
+#bib-table thead th {
+  background: var(--green-darkest);
+  color: var(--green-pale);
+  padding: 10px 12px; text-align: left;
+  cursor: pointer; user-select: none;
+  font-size: 0.78rem; font-weight: 600;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  white-space: nowrap; overflow: hidden;
+}
+#bib-table thead th:hover { background: var(--green-dark); }
+#bib-table tbody td {
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+#bib-table tbody tr:hover td { background: var(--green-pale); }
+.prestado-si { color: #92400e; font-weight: 600; }
+.prestado-no { color: var(--green-mid); }
+.sort-icon { margin-left: 4px; opacity: 0.35; font-size: 0.65rem; }
+.sort-icon.active { opacity: 1; }
