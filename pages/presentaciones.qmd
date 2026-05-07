@@ -1,0 +1,11 @@
+---
+title: "🎞️ Presentaciones"
+---
+
+Hacé clic en los enlaces para abrir las presentaciones en una pestaña nueva.
+
+---
+
+| Año | Título | Institución | |
+|-----|--------|-------------|---|
+| 2026 | **Consecuencias de la política macro de Javier Milei** · *Facultad de Economía UNAM — Mayo de 2026* | FCE-UNAM | <a href="Presentaciones/Consecuencias_Sociales_Macro_Milei_-_202605.pdf" target="_blank">📊 Ver presentación</a> |
