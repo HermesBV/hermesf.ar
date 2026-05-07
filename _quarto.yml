@@ -4,6 +4,7 @@ project:
   resources:
     - bds/
     - img/
+    - pages/Presentaciones/
 
 website:
   title: "Hermes Fernández"
@@ -15,6 +16,8 @@ website:
         text: "CV"
       - href: pages/publicaciones.qmd
         text: "Publicaciones"
+      - href: pages/presentaciones.qmd
+        text: "Presentaciones"
       - href: pages/vbiblioteca.qmd
         text: "vBiblioteca"
   page-footer:

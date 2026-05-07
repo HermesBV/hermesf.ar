@@ -2,10 +2,74 @@
 title: "🎞️ Presentaciones"
 ---
 
-Hacé clic en los enlaces para abrir las presentaciones en una pestaña nueva.
+```{=html}
+<div class="pres-list">
 
----
+  <div class="pres-card">
+    <div class="pres-meta">2026</div>
+    <div class="pres-info">
+      <div class="pres-title">Consecuencias de la política macro de Javier Milei</div>
+      <div class="pres-sub">Facultad de Economía UNAM · Mayo de 2026</div>
+    </div>
+    <a class="pres-btn" href="Presentaciones/Consecuencias_Sociales_Macro_Milei_-_202605.pdf" target="_blank">📊 Abrir</a>
+  </div>
 
-| Año | Título | Institución | |
-|-----|--------|-------------|---|
-| 2026 | **Consecuencias de la política macro de Javier Milei** · *Facultad de Economía UNAM — Mayo de 2026* | FCE-UNAM | <a href="Presentaciones/Consecuencias_Sociales_Macro_Milei_-_202605.pdf" target="_blank">📊 Ver presentación</a> |
+</div>
+
+<style>
+.pres-list { display: flex; flex-direction: column; gap: 0; margin-top: 1rem; }
+
+.pres-card {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid #e5e7eb;
+  flex-wrap: wrap;
+}
+
+.pres-meta {
+  font-size: 0.85rem;
+  color: #6b7280;
+  min-width: 2.8rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.pres-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.pres-title {
+  font-size: 1rem;
+  font-weight: 500;
+  color: inherit;
+  line-height: 1.4;
+}
+
+.pres-sub {
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin-top: 2px;
+}
+
+.pres-btn {
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  background: #1b4332;
+  color: #f0faf4 !important;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.pres-btn:hover { background: #2d6a4f; }
+
+@media (max-width: 500px) {
+  .pres-card { gap: 0.6rem; }
+  .pres-btn { width: 100%; text-align: center; margin-top: 0.3rem; }
+}
+</style>
+```
