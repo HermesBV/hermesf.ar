@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>📚 vBiblioteca – Hermes Fernández</title>
+<title>🎞️ Presentaciones – Hermes Fernández</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -102,11 +102,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Publicaciones</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../pages/presentaciones.html"> 
+    <a class="nav-link active" href="../pages/presentaciones.html" aria-current="page"> 
 <span class="menu-text">Presentaciones</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../pages/vbiblioteca.html" aria-current="page"> 
+    <a class="nav-link" href="../pages/vbiblioteca.html"> 
 <span class="menu-text">vBiblioteca</span></a>
   </li>  
 </ul>
@@ -126,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">📚 vBiblioteca</h1>
+<h1 class="title">🎞️ Presentaciones</h1>
 </div>
 
 
@@ -143,125 +143,32 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Este es un acceso virtual a mi biblioteca personal. Podés ordenar por cualquier columna haciendo clic en el encabezado, o buscar por título y autor. Si querés pedir prestado un título: contactate. No es molestia.</p>
-<div class="bib-search-row">
-  <label>🔍 Buscar por título
-    <input id="bib-title" type="text" placeholder="Ej: La velocidad de la luz">
-  </label>
-  <label>🔍 Buscar por autor
-    <input id="bib-author" type="text" placeholder="Ej: Cercas, J.">
-  </label>
-</div>
-
-<div id="bib-count"></div>
-
-<div id="bib-wrap">
-  
-<table id="bib-table" class="caption-top table">
+<p>Hacé clic en los enlaces para abrir las presentaciones en una pestaña nueva.</p>
+<hr>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 17%">
+<col style="width: 27%">
+<col style="width: 44%">
+<col style="width: 10%">
+</colgroup>
 <thead>
 <tr class="header">
-<th style="text-align: center;" data-quarto-table-cell-role="th" onclick="bibSort(0)">Título <span id="si0" class="sort-icon">▲</span></th>
-<th style="text-align: center;" data-quarto-table-cell-role="th" onclick="bibSort(1)">Autor <span id="si1" class="sort-icon">▲</span></th>
-<th style="text-align: center;" data-quarto-table-cell-role="th" onclick="bibSort(2)">Editorial <span id="si2" class="sort-icon">▲</span></th>
-<th style="text-align: center;" data-quarto-table-cell-role="th" onclick="bibSort(3)">Año <span id="si3" class="sort-icon">▲</span></th>
-<th style="text-align: center;" data-quarto-table-cell-role="th" onclick="bibSort(4)">País <span id="si4" class="sort-icon">▲</span></th>
-<th style="text-align: center;" data-quarto-table-cell-role="th" onclick="bibSort(5)">Prestado <span id="si5" class="sort-icon">▲</span></th>
+<th>Año</th>
+<th>Título</th>
+<th>Institución</th>
+<th></th>
 </tr>
 </thead>
-<tbody id="bib-body">
+<tbody>
 <tr class="odd">
-<td colspan="6" style="text-align: center; padding: 1.5rem; color: #9ab0a2;">Cargando biblioteca...</td>
+<td>2026</td>
+<td><strong>Consecuencias de la política macro de Javier Milei</strong> · <em>Facultad de Economía UNAM — Mayo de 2026</em></td>
+<td>FCE-UNAM</td>
+<td><a href="Presentaciones/Consecuencias_Sociales_Macro_Milei_-_202605.pdf" target="_blank">📊 Ver presentación</a></td>
 </tr>
 </tbody>
 </table>
-
-</div>
-
-<script>
-(function () {
-  let allRows = [];
-  let sortCol = -1, sortAsc = true;
-
-  function parseCSVLine(line) {
-    const result = [];
-    let cur = '', inQ = false;
-    for (let i = 0; i < line.length; i++) {
-      const c = line[i];
-      if (c === '"') {
-        if (inQ && line[i+1] === '"') { cur += '"'; i++; }
-        else inQ = !inQ;
-      } else if (c === ',' && !inQ) { result.push(cur.trim()); cur = ''; }
-      else cur += c;
-    }
-    result.push(cur.trim());
-    return result;
-  }
-
-  async function loadCSV() {
-    try {
-      const res = await fetch('../bds/Biblioteca.csv');
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-      let text = await res.text();
-      text = text.replace(/^\uFEFF/, '');
-      const lines = text.replace(/\r\n/g,'\n').replace(/\r/g,'\n').split('\n');
-      allRows = lines.slice(1).filter(l => l.trim()).map(line => {
-        const c = parseCSVLine(line);
-        return {
-          titulo:    c[0]||'', autor: c[1]||'',
-          editorial: c[2]||'', anio:  c[3]||'',
-          pais:      c[4]||'',
-          prestado:  (c[5]||'').toLowerCase() === 'sí'
-        };
-      });
-      render();
-    } catch(e) {
-      document.getElementById('bib-body').innerHTML =
-        '<tr><td colspan="6" style="padding:1rem;color:#92400e;">⚠️ No se pudo cargar Biblioteca.csv (' + e.message + '). Asegurate de que el archivo esté en bds/.</td></tr>';
-    }
-  }
-
-  function render() {
-    const tq = document.getElementById('bib-title').value.toLowerCase();
-    const aq = document.getElementById('bib-author').value.toLowerCase();
-    const filtered = allRows.filter(r =>
-      r.titulo.toLowerCase().includes(tq) && r.autor.toLowerCase().includes(aq)
-    );
-    document.getElementById('bib-count').textContent =
-      filtered.length + ' libro' + (filtered.length !== 1 ? 's' : '') + ' encontrado' + (filtered.length !== 1 ? 's' : '');
-    document.getElementById('bib-body').innerHTML = filtered.length === 0
-      ? '<tr><td colspan="6" style="text-align:center;padding:1.5rem;color:#9ab0a2;">Sin resultados.</td></tr>'
-      : filtered.map(r =>
-          '<tr>' +
-          '<td>' + r.titulo + '</td>' +
-          '<td>' + r.autor + '</td>' +
-          '<td>' + r.editorial + '</td>' +
-          '<td>' + r.anio + '</td>' +
-          '<td>' + r.pais + '</td>' +
-          '<td class="' + (r.prestado ? 'prestado-si' : 'prestado-no') + '">' + (r.prestado ? 'Sí' : 'No') + '</td>' +
-          '</tr>'
-        ).join('');
-  }
-
-  const colKeys = ['titulo','autor','editorial','anio','pais','prestado'];
-
-  window.bibSort = function(col) {
-    if (sortCol === col) sortAsc = !sortAsc; else { sortCol = col; sortAsc = true; }
-    for (let i=0;i<6;i++) { const e=document.getElementById('si'+i); e.textContent='▲'; e.classList.remove('active'); }
-    const el = document.getElementById('si'+col);
-    el.textContent = sortAsc ? '▲' : '▼';
-    el.classList.add('active');
-    allRows.sort((a,b) => {
-      const va=String(a[colKeys[col]]), vb=String(b[colKeys[col]]);
-      return sortAsc ? va.localeCompare(vb,'es') : vb.localeCompare(va,'es');
-    });
-    render();
-  };
-
-  document.getElementById('bib-title').addEventListener('input', render);
-  document.getElementById('bib-author').addEventListener('input', render);
-  loadCSV();
-})();
-</script>
 
 
 
