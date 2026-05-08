@@ -1,558 +1,558 @@
-ID;Titulo;Autore;Editorial;AÒo;Pais;Genero_1;Genero_2;Leido;Subrayado;Prestado a
-1;La silla del ·guila;Fuentes, C.;Santillana;2004;EspaÒa;null;null;No;No;null
-2;PsicologÌa de la vida cotidiana;"Pichon-Riviere, E. ; Pampliega, A.";Nueva VisiÛn;1985;Argentina;null;null;No;No;null
-3;El cumpleaÒos de Juan ¡ngel;Benedetti, M.;Biblioteca de Marcha;1971;Uruguay;null;null;No;No;null
-4;Los senderos de Foucault;Abraham, T.;Nueva VisiÛn;1989;Argentina;null;null;No;No;null
-5;El medio es el masaje;"McLuhan, M. ; Fiore, Q.";PaidÛs;1969;Argentina;null;null;No;No;null
-6;Los laberintos de la crisis. AmÈrica Latina: poder transnacional y comunicaciones;Argumedo, A.;Folios Ediciones;1984;Argentina;null;null;No;No;null
-7;Isidro Vel·zquez. Formas pre revolucionarias de la violencia;Carri, R.;Sudestada;1968;Argentina;null;null;Si;Si;null
-8;La noche de los bastones largos. 30 aÒos despuÈs;Morero, S.;P·gina 12;1996;Argentina;null;null;No;No;null
-9;Los paraÌsos artificiales. EL vino y el hachÌs. La Fanfarlo;Baudelaire, C.;M. E. Editores;1994;EspaÒa;null;null;No;No;null
-10;Palabra de autor: Cartas de Julio Cort·zar;Cort·zar, J.;Alfaguara;2004;Argentina;null;null;No;No;null
-11;Iluminaciones;Rimbaud, A.;NEED;1999;Argentina;null;null;No;No;null
-12;El vecindario urbano: una perspectiva sociolÛgica;Keller, S.;Siglo XXI;1975;EspaÒa;null;null;No;No;null
-13;Obras inmortales (AsÌ habla zaratrusta, El anticristo, CÛmo se filosofa a martillazos, M·s all· del bien y del mal, Humano demasiado humano, La voluntad del poderÌo);Nietzsche, F.;EDAF;1968;EspaÒa;null;null;No;No;null
-14;Elogio de la desobediencia;"Brauman, R. ; Sivan, E.";Fondo de Cultura EconÛmica;2000;Argentina;null;null;No;No;null
-15;Los 70 a destajo: ajoblanco y libertad;Ribas, J.;EmecÈ;2007;Argentina;null;null;No;No;null
-16;Mirar con nuevos ojos: Nuevos paradigmas en la ciencia y pensamiento complejo;Najmanovich, D.;Biblos;2008;Argentina;null;null;No;No;null
-17;CrÛnicas del ¡ngel Gris;Dolina, A.;Colihue;2008;Argentina;null;null;No;No;null
-18;Los pibes chorros: estigma y marginaciÛn;MÌguez, D.;Capital Intelectual;2004;Argentina;null;null;No;No;null
-19;La comunicaciÛn municipal cÛmplice con los ciudadanos;Puig, T.;PaidÛs;2003;Argentina;null;null;No;No;null
-20;Amor y AnarquÌa;CaparrÛs, M.;Planeta;2010;Argentina;null;null;Si;No;null
-21;HarpÌas y Nereidas: pasiones y muertes en los setenta;Bufano, S.;Losada;2007;Argentina;null;null;No;No;null
-22;El autorretrato en el documental;Schefer, R.;Cat·logos;2008;Argentina;null;null;No;No;null
-23;BiografÌa de mi c·ncer;Kolesnicov, P.;Sudamericana;2002;Argentina;null;null;No;No;null
-24;El mundo en la nueva era imperial;Ramonet, I.;Le Monde Diplomatique ;2002;Argentina;null;null;No;No;null
-25;CrÌmenes Imperceptibles;MartÌnez, G.;Planeta;2008;Argentina;null;null;No;No;null
-26;BibliocastÌa;"Solari, T.; GÛmez, J.";Eudeba;2008;Argentina;null;null;No;No;null
-27;RazÛn y Violencia: Una dÈcada de pensamiento sartreano;"Laing, R.; Cooper, D.";PaidÛs;1973;Argentina;null;null;No;No;null
-28;Se acabÛ la diversiÛn;Puig, T.;PaidÛs;2007;Argentina;null;null;No;No;null
-29;Homo Faber;Benavente, D.;OIT, PREALC;1988;Chile;null;null;No;No;null
-30;Desempleo y bienestar psicolÛgico;Estramiana, J.;Siglo XXI;1992;EspaÒa;null;null;No;No;null
-31;Organismos, estructuras, m·quinas: Para una teorÌa del organismo;Wieser, W.;Eudeba;1962;Argentina;null;null;No;No;null
-32;Saber popular y educaciÛn en AmÈrica Latina;Hern·ndez, I. et al;B˙squeda S.A.E.I.C.;1985;Argentina;null;null;No;No;null
-33;Territorio, conocimiento y competitividad de las empresas;"Boscherini, F. ; Poma, L.";MiÒo y D·vila;2000;EspaÒa;null;null;No;No;null
-34;En la frontera: Trabajos de Psicoan·lisis y Socioan·lisis;RodrÌguez, J.;Multiplicidades;1995;Argentina;null;null;No;No;null
-35;Y t˙ tambiÈn te vas: Argentina y el dinero;¡vila, P.;Adriana Hidalgo;2007;Argentina;null;null;No;No;null
-36;Red de redes: Las pr·cticas de la intervenciÛn en redes sociales;Dabas, E.;PaidÛs;1998;Argentina;null;null;No;No;null
-37;Cuando el verbo se hace carne: Lenguaje y naturaleza humana;Virno, P.;Tinta LimÛn;2004;Argentina;null;null;No;No;null
-38;Historia de las madres de Plaza de Mayo;AsociaciÛn de Madres de Plaza de Mayo;P·gina 12;1996;Argentina;null;null;No;No;null
-39;Ventana Sur: Connecting with the Latin American Film Industry;INCAA;INCAA;2008;Argentina;null;null;No;No;null
-40;La comunicaciÛn global: ComunicaciÛn institucional y de gestiÛn;Weil, P.;PaidÛs;1992;Argentina;null;null;No;No;null
-41;Monte madre: HerÛica historia de compromiso y dignidad;Miceli, J.;Miceli, J.;2006;Argentina;null;null;No;No;null
-42;El juego de los vÌnculos. Subjetividad y Redes: Figuras en mutaciÛn;Najmanovich, D.;Biblos;2005;Argentina;null;null;No;No;null
-43;Los libros son tuyos. PolÌticos, acadÈmicos y militares: La dictadura en Eudeba;Invernizzi, H.;Eudeba;2005;Argentina;null;null;No;No;null
-44;MitologÌa Griega;Railos, S.;CRM;2005;EspaÒa;null;null;No;No;null
-45;El cuenco de las ciudades mestizas: una historia del gran buenos aires;El CulebrÛn Timbal;Productora Escuela Cultural Comunitaria;-;Argentina;null;null;No;No;null
-46;Ramonet: el mundo en la nueva era imperial. Converaciones con Jorge HalperÌn;HalperÌn, J.;Le Monde Diplomatique ;2002;Argentina;null;null;No;No;null
-47;Dulce p·jaro de la juventud. Escaleras al techo. El cuaderno de Trigorin;Williams, T.;Losada;2004;Argentina;null;null;No;No;null
-48;Breve tratado para atacar la realidad;LÛpez, S.;Tinta LimÛn;2009;Argentina;null;null;No;No;null
-49;Juicio final;Katzenbach, J.;Ediciones B;2006;EspaÒa;null;null;No;No;null
-50;GeneraciÛn de empleo: la microempresa como alternativa;"Rofman, A. ; Moreno, G.";CEUR;1988;Argentina;null;null;No;No;null
-51;Situaciones postales;Abraham, T.;Anagrama;2002;EspaÒa;null;null;No;No;null
-52;El dolor de ya no ser: de los abuelos a nosotros;Santore, M.;Gr·fica Buenos Aires;2002;Argentina;null;null;No;No;null
-53;Neocapitalismo y comunicaciÛn de masa;Muraro, H.;Eudeba;1974;Argentina;null;null;No;No;null
-54;Raro;Prado, B.;Plaza y Janes;1995;EspaÒa;null;null;No;No;null
-55;El mundo del trabajo urbano (1890-1914);FalcÛn, R.;Centro Editor de AmÈrica Latina;1986;Argentina;null;null;No;No;null
-56;La vida sexual de Catherine M.;Millet, C.;Quinteto;2005;EspaÒa;null;null;No;No;null
-57;Las venas abiertas de AmÈrica Latina;Galeano, E.;Siglo XXI;1974;Argentina;null;null;Si;No;null
-58;PelÌculas que escuchan: ReconstrucciÛn de la identidad en once films chilenos y argentinos;Donoso, C.;Corregidor;2007;Argentina;null;null;No;No;null
-59;Movimientos del pensar. Diarios.;Wittgenstein, L.;Elsa Somavilla;2000;EspaÒa;null;null;No;No;null
-60;Tratado polÌtico: introducciÛn y notas de Ernesto Funes;de Espinoza, B.;Quadrata;2005;Argentina;null;null;No;No;null
-61;Juvenilia;CanÈ, M.;Colihue;2000;Argentina;null;null;No;No;null
-62;La otra juvenilia;"GaraÒo, S. ; Pertot, W.";Biblos;2002;Argentina;null;null;Si;No;null
-63;Que sigan los Èxitos;Paz y Rudy, D.;P·gina 12;1996;Argentina;null;null;No;No;null
-64;Lo imaginario;Sartre, J.;Losada;1982;Argentina;null;null;No;No;null
-65;Buenos Aires negra. Identidad y cultura;Maronese, L.;gobBsAs;2006;Argentina;null;null;No;No;null
-66;EtimologÌa de las pasiones;Bordelois, I.;Zorzal;2006;Argentina;null;null;No;No;null
-67;Expedientes secretos;Paz y Rudy, D.;P·gina 12;1997;Argentina;null;null;No;No;null
-68;Los fundadores: crÛnicas y poemas de la colonia;-;Centro Editor de AmÈrica Latina;1967;Argentina;null;null;No;No;null
-69;Quemando cromo;Gibson, W.;Minotauro;1994;EspaÒa;null;null;No;No;null
-70;An·lisis organizacional y empresa unipersonal: Crisis y conflicto en contextos turbulentos;Schlemenson, A.;PaidÛs;1993;Argentina;null;null;No;No;null
-71;Cine y dictadura: la censura al desnudo;"Gociol, J. ; Invernizzi, H.";Capital Intelectual;2006;Argentina;null;null;No;No;null
-72;La generaciÛn Nasdaq: Apogeo (øy derrumbe?) de la economÌa digital;Piscitelli, A.;Granica;2001;Argentina;null;null;No;No;null
-73;Testimonio de la realidad de la ilusiÛn;Brabazon, F.;Francis Brabazon;2006;Argentina;null;null;No;No;null
-74;Entre usted y yo: TÈcnicas para su marketing personal;MejÌas, C.;Planeta;1998;Argentina;null;null;No;No;null
-75;Comunicaciones p˙blicas: el modelo de la comunicaciÛn integrada;"Amado, A. ; Castro, C.";Temas Grupo Editorial;1998;Argentina;null;null;No;No;null
-76;Plan nacional de formaciÛn e inserciÛn profesional;Ministerio de Trabajo y Seguridad Social (Esp);Ministerio de Trabajo y Seguridad Social (Esp);1991;EspaÒa;null;null;No;No;null
-77;B˙squeda de trabajo: SoluciÛn a un problema;Porot, D.;Cv Newsletter/Atl·ntida;1989;Argentina;null;null;No;No;null
-78;Cine: un lugar para el amor;Farina, A.;Marcelo H. Oliveri Editor;2010;Argentina;null;null;No;No;null
-79;Durango Perdido: Diario de rodaje de Perdita Durango;Bardem, C.;Ediciones B;1997;EspaÒa;null;null;No;No;null
-80;EducaciÛn y capacitaciÛn de los trabajadores;UTN, F. Friedrich Ebert, OIT;UTN, F. Friedrich Ebert, OIT;-;Argentina;null;null;No;No;null
-81;ComunicaciÛn de masas;Wright, C.;PaidÛs;1980;Argentina;null;null;No;No;null
-82;ContribuciÛn de la televisiÛn argentina al subdesarrollo;de Zavaleta, E.;Editorial Cuarto Mundo;1975;Argentina;null;null;No;No;null
-83;Cuentos para despuÈs del div·n;Hazaki, C.;Editorial Topia;2006;Argentina;null;null;No;No;null
-84;Epitafios: El derecho a la muerte escrita;Gusm·n, L.;Grupo Editorial Norma;2005;Argentina;null;null;No;No;null
-85;Las cinco preguntas m·s importantes que usted debe formularse sobre su organizaciÛn sin fines de lucro;Rossum, C.;Granica;1995;Argentina;null;null;No;No;null
-86;199 preguntas sobre marketing y publicidad;"Bonta, P. ; Farber, M.";Grupo Editorial Norma;1994;Argentina;null;null;No;No;null
-87;Pobreza, un tema impostergable: nuevas respuestas a nivel mundial;Kliksberg, B.;Fondo de Cultura EconÛmica;1993;MÈxico;null;null;No;No;null
-88;Del fragmento a la situaciÛn: Notas sobre la subjetividad contempor·nea;Grupo Doce;Grupo Doce;2001;Argentina;null;null;No;No;null
-89;Hacia una gestiÛn pariticpativa y eficaz;"Burin, D. ; Karl, I. ; Levin, L.";Ediciones Ciccus;1995;Argentina;null;null;No;No;null
-90;"Propuestas, debates y ponencias: ""El empleo: una cuestiÛn de Estado""";1er Congreso Nacional de Empleo y CapacitaciÛn Laboral;MTSS;1999;Argentina;null;null;No;No;null
-91;La era de la desolaciÛn: Ètica y moral en la Argentina de fin de siglo;Scavino, D.;Ediciones Manantial;1996;Argentina;null;null;No;No;null
-92;Los sueÒos nucleares de Reagan;Dorfman, A.;Legasa;1986;Argentina;null;null;No;No;null
-93;Seminario Gestao Democr·tica das Cidades: MetodologÌas de participaciÛn, redes y movimientos sociales;PPGA/FLACSO;PPGA/FLACSO;2002;Brasil;null;null;No;No;null
-94;Acontecimiento: Revista para pensar la polÌtica. N˙mero 26;Badiou, A.;Grupo Acontecimiento;2003;Argentina;null;null;No;No;null
-95;Identidad cultural y cambio tecnolÛgico en AmÈrica Latina;Azcuy, E.;Centro de Estudios Latinoamericanos;1985;Argentina;null;null;No;No;null
-96;ComunicaciÛn social y desarrollo nacional AmÈrica Latina;Getino, O.;Centro de estudios para la comunicaciÛn popular;1983;MÈxico;null;null;No;No;null
-97;Turismo, comunicaciÛn social y desarrollo;Getino, O.;Edimedios;1983;MÈxico;null;null;No;No;null
-98;Inem Barcelona, Memoria 1988;MTSS;MTSS;1988;EspaÒa;null;null;No;No;null
-99;Vigilar y castigar: nacimiento de la prisiÛn;Foucault, M.;Siglo XXI;1987;MÈxico;null;null;No;No;null
-100;El grupo y sus configuraciones: terapia psicoanalÌtica;"Puget, J. ; Bernard, M. ; Games, G. ; Romano, E.";Lugar Editorial;1982;Argentina;null;null;No;No;null
-101;AntropologÌa del cuerpo y modernidad;Le Breton, D.;Nueva VisiÛn;2006;Argentina;null;null;No;No;null
-102;Todos eran mi hijos. DespuÈs de la caÌda.;Miller, A.;Losada;2004;Argentina;null;null;No;No;null
-103;Conversaciones con Enrique Pichon-Riviere: Sobre el arte y la locura;Zito Lema, V.;Ediciones Cinco;1986;Argentina;null;null;No;No;null
-104;Algo va a pasar;Esber, H.;De la campana;2002;Argentina;null;null;No;No;null
-105;Hijo de Dios;McCarthy, C.;Editorial Debate;2001;EspaÒa;null;null;No;No;null
-106;Iniciativa empresarial y desarrollo econÛmico local: recomendaciones para la aplicaciÛn de programas y polÌticas;OCDE;OCDE;2003;EspaÒa;null;null;No;No;null
-107;El traductor;Benesdra, S.;Ediciones La Flor;2003;EspaÒa;null;null;No;No;null
-108;Libro blanco sobre el empleo en Argentina;MTSS;MTSS;1995;Argentina;null;null;No;No;null
-109;PolÌticas de la memoria: tensiones en la palabra y la imagen;"Lorenzano, S. ; Buchenhorst, R.";Editorial Gorla;2007;Argentina;null;null;No;No;null
-110;Las polÌticas de migraciones internacionales;M·rmora, L.;PaidÛs;2004;Argentina;null;null;No;No;null
-111;DesocupaciÛn: Individuo, familia, sociedad;FUNDAIH;FUNDAIH;1996;Argentina;null;null;No;No;null
-112;AntologÌa PoÈtica;Ferlinghetti, L.;Ediciones del MediodÌa;1969;Argentina;null;null;No;No;null
-113;Atardeceres;Jitrik, N.;Ediciones al Margen;2006;Argentina;null;null;No;No;null
-114;Para un an·lisis ideolÛgico del periodismo;Claro, M.;Editorial Precursora;1983;Argentina;null;null;No;No;null
-115;Periodismo y cultura;Varios;Tercer Mundo Editores;1991;Colombia;null;null;No;No;null
-116;TelevisiÛn: la realidad como espect·culo;Colombo, F.;Editorial Gustavo Gili;1976;EspaÒa;null;null;No;No;null
-117;La comunicaciÛn masiva en el proceso de liberaciÛn;Matterlart, A.;Siglo XXI;1974;Argentina;null;null;No;No;null
-118;Problemas de comunicaciÛn y desarrollo;Aprea, G.;Prometeo Libros;2004;Argentina;null;null;No;No;null
-119;FormaciÛn y empleo: estrategias posibles;"del RÌo, E. ; Jover, D. ; Riesco, L.";PaidÛs;1991;EspaÒa;null;null;No;No;null
-120;TeorÌas de la comunicaciÛn masiva;De Fleur, M.;PaidÛs;1980;Argentina;null;null;No;No;null
-121;Traiciones: la figura del traidor en los relatos acerca de los sobrevivientes de la represiÛn;Longoni, A.;Grupo Editorial Norma;2007;Argentina;null;null;No;No;null
-122;Una Argentina posible: Problemas polÌticos y recursos econÛmicos;"Calcagno, E. ; Calcagno, A.";Le Monde Diplomatique ;2004;Argentina;null;null;No;No;null
-123;El Estado y sus otros;Calveiro, P.;Libros de la Araucaria;2006;Argentina;null;null;No;No;null
-124;La cultura de la satisfacciÛn;Kenneth, J.;EmecÈ;1992;Argentina;null;null;No;No;null
-125;La vida en la pantalla: La construcciÛn de la identidad en la er de internet;Turkle, S.;PaidÛs;1997;EspaÒa;null;null;No;No;null
-126;Esbozo de una antropologÌa filosÛfica americana;Kusch, R.;CastaÒeda;1978;Argentina;null;null;No;No;null
-127;Lo que todo pequeÒo empresario debe saber;"Meredith, G. ; Nelson, R. ; Neck, P.";OIT;1988;Suiza;null;null;No;No;null
-128;La micro empresa en el desarrollo local y regional: una contribuciÛn para el ciudadano;Schujman, L.;U.N.R. Editora;1992;Argentina;null;null;No;No;null
-129;AcciÛn municipal y microempresa;"Gonz·lez, M. ; Hidalgo, L.";PET;1995;Chile;null;null;No;No;null
-130;AntologÌa de ensayos en vivo. Vol˙men 1.;Ensayos en Libro;Ensayos en Libro;2009;Argentina;null;null;No;No;null
-131;SÛlo las cosas;Valle, A.;Ensayos en Libro;2008;Argentina;null;null;No;No;null
-132;Las bodas universales;Huasi, J.;-;1962;-;null;null;No;No;null
-133;Cuando ya no importe;Onetti, J.;Punto de Lectura;2008;Argentina;null;null;No;No;null
-134;Pobreza, el drama cotidiano. Clave para una nueva gerencia social eficiente.;Kliksberg, B.;Grupo Editorial Norma;1995;Argentina;null;null;No;No;null
-135;El mundo como supermercado;Houllebecq, M.;Anagrama;2000;EspaÒa;null;null;No;No;null
-136;CorrupciÛn, crimen y violencia;"Schargrodsky, E. ; Cornblit, O. ; Canavese, A.";La CrujÌa Ediciones;2004;Argentina;null;null;No;No;null
-137;Nuevas tecnologÌas y desempleo;Sylos, P.;Fondo de Cultura EconÛmica;1993;MÈxico;null;null;No;No;null
-138;Sin trabajo: las caracterÌsticas del desempleo y sus efectos en la sociedad argentina;"Beccaria, L. ; LÛpez, N.";Losada;1996;Argentina;null;null;No;No;null
-139;Los efectos de las comunicaciones de masas;"Eco, U. ; Friedmann, G. ; Halloran, J.";Editorial Jorge ¡lvarez;1969;Argentina;null;null;No;No;null
-140;Periodismo escolar;Fischer, R.;Editorial Biblioteca;1975;Argentina;null;null;No;No;null
-141;Medio ambiente y urbanizaciÛn: Microempresas, crÈdito y medio ambiente.;IIED-AL;IIED-AL;1995;Argentina;null;null;No;No;null
-142;Las verdades que mienten: una an·lisis de la ideologÌa represiva de los textos para niÒos;"Bonazzi, M. ; Eco, U.";Editorial Tiempo Contempor·neo;1974;Argentina;null;null;No;No;null
-143;La opiniÛn p˙blica y la propaganda;Young, K.;PaidÛs;1980;Argentina;null;null;No;No;null
-144;Fin del trabajo: nuevas tecnologÌas contra puestos de trabajo: el nacimiento de una nueva era;Rifkin, J.;PaidÛs;1996;EspaÒa;null;null;No;No;null
-145;La empresa transparente;Borrini, A.;Atl·ntida;1997;EspaÒa;null;null;No;No;null
-146;Un modelo de desarrollo regional: provincia de Buenos Aires;Hern·ndez, R.;Ediciones Macchi;1996;Argentina;null;null;No;No;null
-147;SociologÌa de los medios masivos de comunicaciÛn;McQuail, D.;PaidÛs;1979;Argentina;null;null;No;No;null
-148;Revista de EconomÌa: 59.;FundaciÛn Friedrich Ebert, FundaciÛn Banco de la Provincia de CÛrdoba;Banco de la provincia de CÛrdoba;1990;Argentina;null;null;No;No;null
-149;El banco mundial: intervenciÛn y disciplinamiento. El caso argentino, enseÒanzas para AmÈrica Latina.;Corbal·n, M.;Biblos;2002;Argentina;null;null;No;No;null
-150;El cambio de poder.;Toffler, A.;Plaza y Janes;1994;EspaÒa;null;null;No;No;null
-151;øQuÈ son las condiciones y medio ambiente de trabajo?: Propuesta de una nueva perspectiva;Neffa, J.;Hvmanitas;1987;Argentina;null;null;No;No;null
-152;RevoluciÛn tecnolÛgica y empleo;Tangelson, O.;Ministerio de la ProducciÛn: Instituto provincial del empleo;1993;Argentina;null;null;No;No;null
-153;Psicoterapia psicodram·tica;Bustos, D.;PaidÛs;1975;Argentina;null;null;No;No;null
-154;Combates por la memoria: Huellas de la dictadura en la historia;Lorenz, F.;Capital Intelectual;2007;Argentina;null;null;No;No;null
-155;Trabajo y familia en el ciclo de vida femenino: el caso de los sectores populares de Buenos Aires;"Jelin, E. ; FeijoÛ, M.";Estudios CEDES;1980;Argentina;null;null;No;No;null
-156;Cartas del noviazgo;Kierkegaard, S.;Siglo Veinte;1979;Argentina;null;null;No;No;null
-157;Interrupciones II;Gelman, J.;Libros de Tierra Firme;1986;Argentina;null;null;No;No;null
-158;Las incubadoras de Microempresas como estrategia de desarrollo local;"PÈrez, J. ; Celada, F. ; Sardi, R.";Ministerio de la ProducciÛn y el Empleo;1997;Argentina;null;null;No;No;null
-159;La escena institucional;"Kononovich, B. ; SaidÛn, O.";Lugar Editorial;1991;Argentina;null;null;No;No;null
-160;El sector microempresarial;Ministerio de la ProducciÛn: Instituto provincial del empleo;Ministerio de la ProducciÛn: Instituto provincial del empleo;1989;Argentina;null;null;No;No;null
-161;Medio ambiente y urbanizaciÛn: Crisis y participaciÛn;IIED-AL;IIED-AL;2004;Argentina;null;null;No;No;null
-162;La doble moral de la organizaciones: Los sistemas perversos y la corrupciÛn institucionalizada;Etkin, J.;McGraw-Hill;1993;Argentina;null;null;No;No;null
-163;Saussure y los fundamentos de la ling¸Ìstica;SazbÛn, J.;Centro Editor de AmÈrica Latina;1981;Argentina;null;null;No;No;null
-164;Reader's nuestro que est·s en la tierra: ensayos sobre el imperialismo cultural;Dorfman, A.;Editorial Nueva Imagen;1980;MÈxico;null;null;No;No;null
-165;Periodismo de investigaciÛn;Secanella, P.;Tecnos;1986;EspaÒa;null;null;No;No;null
-166;La semiologÌa;Guiraud, P.;Siglo XXI;1973;Argentina;null;null;No;No;null
-167;PequeÒa empresa: Los primeros pasos. Manual del emprendedor.;CGI;CGI;1991;Argentina;null;null;No;No;null
-168;Posicionamiento: el concepto que ha revolucionado la comunicaciÛn publicitaria y el marketing;Al Ries, J.;McGraw-Hill;1992;EspaÒa;null;null;No;No;null
-169;ComunicaciÛn: estrategias , tÈcnicas y t·cticas en el mercado;Bonnin, J.;Macchi;1993;Argentina;null;null;No;No;null
-170;Instituto de la investigaciÛn de la comunicaciÛn social v3: Proyecto de comunicaciÛn para la prevenciÛn de la desnutriciÛn;UNLP;UNLP;1986;Argentina;null;null;No;No;null
-171;Instituto de la investigaciÛn de la comunicaciÛn social v4: DiagnÛsticos y estrategias de comunicaciÛn.;UNLP;UNLP;1984;Argentina;null;null;No;No;null
-172;Instituto de la investigaciÛn de la comunicaciÛn social v5: ComunicaciÛn y sociedad, aproximaciones teÛricas.;UNLP;UNLP;1987;Argentina;null;null;No;No;null
-173;Instituto de la investigaciÛn de la comunicaciÛn social v1: Estudios sobre la televisiÛn, programaciÛn y efectos.;UNLP;UNLP;1987;Argentina;null;null;No;No;null
-174;La enfermedad y sus met·foras. EL sida y sus met·foras.;Sontag, S.;Taurus;2005;Argentina;null;null;No;No;null
-175;El lenguaje y los problemas del conocimiento;"Jakobson, R. ; Barthes, R. ; Moles, A.";Editorial Rodolfo Alonso;1962;Argentina;null;null;No;No;null
-176;Alma encadenada (Soul on ice);Cleaver, E.;Siglo XXI;1969;Argentina;null;null;No;No;null
-177;Rumores: El medio de difusiÛn m·s antiguo del mundo;Kapferer, J.;EmecÈ;1989;Argentina;null;null;No;No;null
-178;PerÛn y los medios de comunicaciÛn;SirvÈn, P.;Centro Editor de AmÈrica Latina;1984;Argentina;null;null;No;No;null
-179;Religiosidad popular en la Argentina;"Chapp, M. ; Iglesias, M. ; Pascual, M. ; Rold·n, V. ; SantamarÌa, D.";Centro Editor de AmÈrica Latina;1991;Argentina;null;null;No;No;null
-180;Tres teorÌas sobre la prensa: en el mundo capitalista;"Siebert, F. ; Peterson, T.";Ediciones la Flor;1967;Argentina;null;null;No;No;null
-181;Cultura, comunicaciÛn y desarrollo en AmÈrica Latina;Getino, O.;Edimedios;1984;MÈxico;null;null;No;No;null
-182;La microempresa en debate;Encuentro Nacional de la Microempresa;Encuentro Nacional de la Microempresa;1992;Argentina;null;null;No;No;null
-183;La novena revelaciÛn;Redfield, J.;Atl·ntida;1994;Argentina;null;null;No;No;null
-184;Medios de comunicaciÛn y cultural popular;"Ford, A. ; Rivera, J. ; Romano, E.";Legasa;1985;Argentina;null;null;No;No;null
-185;La microempresa en una estrategia de crecimiento;"Lindemboin, J. ; Rofman, A. ; Moreno, G.";CEUR;1989;Argentina;null;null;No;No;null
-186;Psicoterapia del oprimido;Moffat, A.;Editorial LiberarÌa Ecro;1974;Argentina;null;null;No;No;null
-187;Plan estratÈgico de desarrollo de JunÌn;Provincia de JunÌn;Provincia de JunÌn;2002;Argentina;null;null;No;No;null
-188;Programa modular de formaciÛn para el sector minero;Intemin;Intemin;1995;Argentina;null;null;No;No;null
-189;CÛmo analizar la gestiÛn social municipal;SecretarÌa de desarrollo social de la naciÛn;SecretarÌa de desarrollo social de la naciÛn;1999;Argentina;null;null;No;No;null
-190;EvaluaciÛn del aporte econÛmico de la mujer al desarrollo;"Dixon-Muelle, R. ; Anker, R.";OIT;1989;Chile;null;null;No;No;null
-191;PromociÛn de cooperativas y pequeÒas unidades productivas dentro del sector de la economÌa social;OIT;ALCECOOP;1991;Argentina;null;null;No;No;null
-192;Nuestro cine: Pasolini. Nro 46;Nuestro cine;Nuestro cine;1965;EspaÒa;null;null;No;No;null
-193;MigraciÛn y frontera: cinco estudios de casos sobre las fronteras de Argentina, Brasil y Paraguay;OIM;OIM;2003;Argentina;null;null;No;No;null
-194;La pr·ctica de co-operar: Manual para cooperativas de trabajo;PRONATASS;Ministerio de economÌa y obras y servicios p˙blicos;1994;Argentina;null;null;No;No;null
-195;Trabajadores vulnerables y sector informal de lo econÛmico y normativo;"Mezzera, J. ; Vega-Ruiz, M.";OIT;1995;Chile;null;null;No;No;null
-196;Programas de empleo transitorio: la experiencia de los barrios bonaerenses. Aspectos conceptuales, metodolÛgicos y operativos.;PNUD;Ministerio de EconomÌa PBA;1999;Argentina;null;null;No;No;null
-197;Lecturas sobre la exclusiÛn social;"Barrios, P. ; de los RÌos, D. ; Torche, F.";OIT;1996;Chile;null;null;No;No;null
-198;ComunicaciÛn y organizaciÛn: la organizaciÛn comunicante y la comunicaciÛn organizada;Bartoli, A.;PaidÛs;1992;EspaÒa;null;null;No;No;null
-199;Observaciones sobre la filosofÌa de la psicologÌa. Volumen I;Wittgenstein, L.;UNAM;1997;MÈxico;null;null;No;No;null
-200;Observaciones sobre la filosofÌa de la psicologÌa. Volumen II;Wittgenstein, L.;UNAM;1997;MÈxico;null;null;No;No;null
-201;Cooperativas para los incapacitado: su organizaciÛn y desarrollo;OIT;OIT;1983;Argentina;null;null;No;No;null
-202;EL gorila invisible y otras maneras en las que nuestra intuiciÛn nos engaÒa;"Chabris, C. ; Simons, D.";Siglo XXI;2011;Argentina;null;null;No;No;null
-203;øPor quÈ no lo dijo antes? CÛmo hacerse entender;Heyman, R.;Granica;1999;EspaÒa;null;null;No;No;null
-204;La comunicaciÛn global: CÛmo consturir la imagen de una empresa;Regouby, C.;GestiÛ 2000;1989;EspaÒa;null;null;No;No;null
-205;La innovaciÛn y el empresariado innovador: La pr·ctica y los principios;Drucker, P.;Edhasa;1991;EspaÒa;null;null;No;No;null
-206;Las transformaciones econÛmicas y sociales en el nuevo orden mundial: situaciÛn y perspectivas en la provincia de Buenos Aires;PBA;PBA;1994;Argentina;null;null;No;No;null
-207;Crisis, ruptura y superaciÛn: An·lisis transicional en psicoan·lisis individual y grupal;Varios;Ediciones Cinco;1979;Argentina;null;null;No;No;null
-208;Doce temas de formaciÛn;Agudelo, S.;CINTEFOR/OIT;1993;Uruguay;null;null;No;No;null
-209;La microempresa: producciÛn y empleo para el desarrollo;OIT;OIT;1991;Uruguay;null;null;No;No;null
-210;Jornada sociolaboral: la orientaciÛn profesional y ocupacional;Ministerio de trabajo y seguridad social (Col);Ministerio de trabajo y seguridad social (Col);1991;Colombia;null;null;No;No;null
-211;CÛmo realizar un proyecto de capacitaciÛn: un efoque de la ingenierÌa de la capacitaciÛn;Pain, A.;Granica;1990;Argentina;null;null;No;No;null
-212;No matar: sobre la responsabilidad;La intemperie;La intemperie;2007;Argentina;null;null;No;No;null
-213;Universidad transhumante: territorios, redes y lenguajes;Colectivo Situaciones;Tinta LimÛn;2004;Argentina;null;null;No;No;null
-214;Nuevas tecnologÌas enla ciudad: informaciÛn y comunicaciÛn en la cotidianeidad;"Finquelievich, S. ; Vidal, A. ; Karol, J.";Centro Editor de AmÈrica Latina;1992;Argentina;null;null;No;No;null
-215;Obras escogidas de Mao Tsetung. Tomo I;Tsetung, M.;Editorial del Pueblo;1971;China;null;null;No;No;null
-216;Obras escogidas de Mao Tsetung. Tomo II;Tsetung, M.;Editorial del Pueblo;1971;China;null;null;No;No;null
-217;Obras escogidas de Mao Tsetung. Tomo III;Tsetung, M.;Editorial del Pueblo;1971;China;null;null;No;No;null
-218;Obras escogidas de Mao Tsetung. Tomo IV;Tsetung, M.;Editorial del Pueblo;1971;China;null;null;No;No;null
-219;El hombre telespectador;Cazeneuve, J.;Gustavo Gili;1977;EspaÒa;null;null;No;No;null
-220;La experiencia del foro intermunicipal de promociÛn del empleo;"Conato, D. ; Navarro, H. ; Lorente, P.";FORO;1996;Argentina;null;null;No;No;null
-221;OrganizaciÛn y estructura: para la pequeÒa y mediana empresa;Fresco, J.;Macchi;1993;Colombia;null;null;No;No;null
-222;CÛmo preparar monografÌas e informes;Standop, E.;Kapelusz;1976;Argentina;null;null;No;No;null
-223;La comunicaciÛn para el cambio en las organizaciones;Morera, I.;Caeci;1993;Argentina;null;null;No;No;null
-224;El pensamiento lateral: manual de creatividad;de Bono, E.;PaidÛs;1992;Argentina;null;null;No;No;null
-225;El trabajo del actor sobre su papel;Stanislavski, C.;Quetzal;1977;Argentina;null;null;No;No;null
-226;El trabajo del actor sobre sÌ mismo: en el proceso creador de las vivencias;Stanislavski, C.;Quetzal;1977;Argentina;null;null;No;No;null
-227;El trabajo del actor sobre sÌ mismo: en el proceso creador de la encarnaciÛn;Stanislavski, C.;Quetzal;1979;Argentina;null;null;No;No;null
-228;Diccionario de los medios de comunicaciÛn: tÈcnica, semiologÌa, ling¸Ìstica;"Fages, J. ; Pagano, C.";Fernando Torres Editor;1978;EspaÒa;null;null;No;No;null
-229;Lenguaje, significado y contexto;Lyons, J.;PaidÛs;1981;EspaÒa;null;null;No;No;null
-230;La entrevista periodÌstica: intimidades de la conversaciÛn p˙blica;HalperÌn, J.;PaidÛs;1995;Argentina;null;null;No;No;null
-231;Identidad de las organizaciones: invariancia y cambio;"Etkin, J. ; Schvarstein, L.";PaidÛs;1994;Argentina;null;null;No;No;null
-232;Psicoan·lisis y empresa: cÛmo utilizar psiconan·lisis para comprender la empresa;Bruneau, J.;Granica;1991;EspaÒa;null;null;No;No;null
-233;AntologÌa PoÈtica;Corso, G.;Ediciones del MediodÌa;1969;Argentina;null;null;No;No;null
-234;El trabajo: una nueva civilizaciÛn y cultura del trabajo;M·spero, E.;Hvmanitas;1984;Argentina;null;null;No;No;null
-235;El empleo en el sector informal: su integraciÛn a las estructuras econÛmicas;Charmes, J.;Hvmanitas;1992;Argentina;null;null;No;No;null
-236;La Èlite del poder;Wright, C.;Fondo de Cultura EconÛmica;1969;MÈxico;null;null;No;No;null
-237;La evoluciÛn de las ideas argentinas. Tomo I;Ingenieros, J.;Editorial Problemas;1946;Argentina;null;null;No;No;null
-238;La evoluciÛn de las ideas argentinas. Tomo II;Ingenieros, J.;Editorial Problemas;1946;Argentina;null;null;No;No;null
-239;La evoluciÛn de las ideas argentinas. Tomo IV;Ingenieros, J.;Editorial Problemas;1946;Argentina;null;null;No;No;null
-240;Peronismo y menemismo: avatares del populismo en la Argentina;"BorÛn, A. ; Mora, M. ; Nun, J. ; Portantiero, J. ; Sidicaro, R.";El cielo por asalto;1995;Argentina;null;null;No;No;null
-241;La tercera vÌa: la renovaciÛn de la socialdemocracia;Giddens, A.;Taurus;1999;EspaÒa;null;null;No;No;null
-242;Juan B. Justo: El patriarca socialista;Portantiero, J.;Capital Intelectual;2006;Argentina;null;null;No;No;null
-243;El di·logo de la Època: CatÛlicos y marxistas;Varios;Editorial Platina;1965;Argentina;null;null;No;No;null
-244;Masas y Èlites en iberoamÈrica;Palacios, A.;Columba;1956;Argentina;null;null;No;No;null
-245;Con PerÛn hacia el socialismo nacional;Orellano, J.;Trasvasamiento;1973;Argentina;null;null;No;No;null
-246;Lenin;Stalin, J.;Ediciones en lenguas extranjeras;1946;URSS;null;null;No;No;null
-247;La simulaciÛn en la lucha por la vida;Ingenieros, J.;Roggero-Ronal Editores;1952;Argentina;null;null;No;No;null
-248;URSS '76: Anuario de la agencia de prensa NÛvosti;Editorial de la Agencia de prensa NÛvosti;Editorial de la Agencia de prensa NÛvosti;1976;URSS;null;null;No;No;null
-249;Gabriela, clavo y canela;Amado, J.;Casa de las AmÈricas;1975;Cuba;null;null;No;No;null
-250;El programa de transiciÛn para la revoluciÛn socialista;Trotsky, L.;Ediciones Crux;-;Bolivia;null;null;No;No;null
-251;En defensa del marxismo;Trotsky, L.;Fontamara;1977;EspaÒa;null;null;No;No;null
-252;La cultura filosÛfica en EspaÒa;Ingenieros, J.;Meridion;1955;Argentina;null;null;No;No;null
-253;La revoluciÛn sandinista;MarÌn, J.;Anteo;1984;Argentina;null;null;No;No;null
-254;Las t·cticas del frente ˙nico;Trotsky, L.;Ediciones CEPE;1973;Argentina;null;null;Si;Si;null
-255;Acerca de la democracia socialista;Lenin, V.;Editorial de la Agencia de prensa NÛvosti;1969;URSS;null;null;No;No;null
-256;La mayor;Saer, J.;Centro Editor de AmÈrica Latina;1982;Argentina;null;null;Si;No;null
-257;Bases y puntos de partida para la organizaciÛn de la Rep˙blica Argentina;Alberdi, J.;Centro Editor de AmÈrica Latina;1979;Argentina;null;null;Si;Si;null
-258;Sobre la deuda imapagable de AmÈrica Latina, sus consecuencias imprevisibles y otros temas de interÈs polÌtico e histÛrico;Castro, F.;Agencia EFE;1985;Cuba;null;null;No;No;null
-259;Reforma o revoluciÛn;Luxemburgo, R.;Juan Grijalbo Editor;1967;MÈxico;null;null;No;No;null
-260;Capitalismo e imperialismo norteamericano;Sweexy, P.;Jorge ¡lvarez Editor;1963;Argentina;null;null;No;No;null
-261;Lenin y la filosofÌa;Althusser, L.;Ediciones CEPE;1972;Argentina;null;null;No;No;null
-262;P.T. Brasil: una respuesta latinoamericana al desafÌo imperialista;Bilbao, L.;B˙squeda Editora;1990;Argentina;null;null;Si;Si;null
-263;Subdesarrollo y estancamiento en AmÈrica Latina;Furtado, C.;EUDEBA;1966;Argentina;null;null;No;No;null
-264;Alfredo L. Palacios: Un socialismo argentino para la Argentina;GarcÌa, V.;Centro Editor de AmÈrica Latina;1986;Argentina;null;null;No;No;null
-265;Los socialistas independientes 1;Sanguinetti, H:;Centro Editor de AmÈrica Latina;1987;Argentina;null;null;No;No;null
-266;Los socialistas independientes 2;Sanguinetti, H:;Centro Editor de AmÈrica Latina;1987;Argentina;null;null;No;No;null
-267;El ruido y la furia;Faulkner, W.;Ediciones C·tedra;2005;EspaÒa;null;null;No;No;null
-268;La metamorfosis de la cuestiÛn social: una crÛnica del salariado;Castel, R.;PaidÛs;1997;Argentina;null;null;No;No;null
-269;SociologÌa del poder: introducciÛn y selecciÛn de textos: Antonio Passano;Varios;Centro Editor de AmÈrica Latina;1978;Argentina;null;null;No;No;null
-270;El sentido pr·ctico;Bourdieu, P.;Siglo XXI;2007;Argentina;null;null;No;No;null
-271;En letras de sangre y fuego: trabajo, m·quinas y crisis del capitalismo;Caffentzis, G.;Tinta LimÛn;2020;Argentina;null;null;No;No;null
-272;"La guerra de los lugares; la colonizaciÛn de la tierra y la vivienda en la era de las finanzas";Rolnik, R.;El Colectivo;2021;Argentina;null;null;No;No;null
-273;Sociales en debate 05: cultura social del dÛlar;Varios;UBA Sociales;2013;Argentina;null;null;No;No;null
-274;El sentimiento de inseguridad: sociologÌa del temor al delito;Kessler, G.;Siglo XXI;2009;Argentina;null;null;No;No;null
-275;Revista de investigaciÛn interdisciplinaria en mÈtodos experimentales. AÒo 3: Volumen 1;IADCOM;FCE-UBA;2014;Argentina;null;null;No;No;null
-276;SociologÌa argentina;Ingenieros, J.;Hyspamerica;1988;Argentina;null;null;No;No;null
-277;Sur: revista mensual. 215-216;Sur;Sur;1952;Argentina;null;null;No;No;null
-278;El 45;Luna, F.;Sudamericana;1999;Argentina;null;null;No;No;null
-279;Historia contempor·nea de AmÈrica Latina;Halperin, T.;Alianza Editorial;1983;MÈxico;null;null;No;No;null
-280;Los secretos del Congreso;Sued, G.;Penguin Random House;2019;Argentina;null;null;No;No;null
-281;Historia del Siglo XX;Hobsbawm, E.;Planeta;2021;Argentina;null;null;No;No;null
-282;MicroeconomÌa heterodoxa: modelos sraffianos y marxistas;Montes, G.;EUDEBA;2022;Argentina;null;null;No;No;null
-283;Escritos sobre moneda y banca;Fragueiro, M.;Manuel Belgrano Ediciones;2021;Argentina;null;null;No;No;null
-284;El acuerdo entre el Mercosur y la UniÛn Europea: estudio integral de sus cl·usulas y efectos;"Ghiotto, L. ; Echaide, J.";FundaciÛn Rosa Luxemburgo;2020;Argentina;null;null;No;No;null
-285;Atlas del agronegocio: datos y hechos sobre la industria agrÌcola y de alimentos;FundaciÛn Rosa Luxemburgo;FundaciÛn Rosa Luxemburgo;-;Argentina;null;null;No;No;null
-286;Los cuadernos de don Rigoberto;Vargas, M.;Alfaguara;2008;Argentina;null;null;Si;No;null
-287;Fragmentos de un discurso amoroso;Barthes, R.;Siglo XXI;2008;Argentina;null;null;No;No;null
-288;El oficio del sociÛlogo: presupuesto epistemolÛgicos;Bourdieu, P.;Siglo XXI;2008;Argentina;null;null;No;No;null
-289;IntroducciÛn a los estudios sobre genocidio;Feierstein, D.;Fondo de Cultura EconÛmica;2016;Argentina;null;null;No;No;null
-290;La muerte del prÛjimo;Zoja, L.;Fondo de Cultura EconÛmica;2015;Argentina;null;null;No;No;null
-291;Las formas elementales de la vida religiosa;Durkheim, E.;Alianza Editorial;2014;EspaÒa;null;null;No;No;null
-292;Las reglas del mÈtodo sociolÛgico;Durkheim, E.;Colihue;2018;Argentina;null;null;No;No;null
-293;El suicidio;Durkheim, E.;Terramar Ediciones;2013;Argentina;null;null;No;No;null
-294;La divisiÛn del trabajo social;Durkheim, E.;Akal Ediciones;2001;Argentina;null;null;No;No;null
-295;Manual de escritura para cientÌficos sociales: cÛmo empezar y terminar una tesis, un libro o un artÌculo;Becker, H.;Siglo XXI;2011;Argentina;null;null;No;No;null
-296;Obras completas: Tomo 1;Carri, R.;Ediciones Biblioteca Nacional;2015;Argentina;null;null;No;No;null
-297;Obras completas: Tomo 2;Carri, R.;Ediciones Biblioteca Nacional;2015;Argentina;null;null;No;No;null
-298;La Dame aux camÈlias;Dumas, A.;Pocket;2020;Francia;null;null;No;No;null
-299;Walsh, el criptÛgrafo. Escritura y acciÛn polÌtica en la obra de Rodolfo Walsh;Beatriz, S.;El Colectivo;2011;Argentina;null;null;Si;No;null
-300;Vanguardia y posmodernismo;Salvador, N.;Corregidor;2011;Argentina;null;null;No;No;null
-301;La novia de Sandro;Sosa, C.;Tusquets Editores;2020;Argentina;null;null;No;No;null
-302;El caballero de la armadura oxidada;Fisher, R.;Ediciones Obelisco;1999;EspaÒa;null;null;No;No;null
-303;Obra poÈtica completa;Vallejo, C.;Casa de las AmÈricas;1975;Cuba;null;null;No;No;null
-304;Cuentos completos 2 (1969-1983);Cort·zar, J.;Alfaguara;2016;Argentina;null;null;No;No;null
-305;OperaciÛn mate amargo: Dax y sus agentes secretos en B.A.;Ramb, A.;Bit·cora Ediciones;2021;Argentina;null;null;No;No;null
-306;Los lanzallamas;Arlt, R.;Centro Editor de Cultura;2005;Argentina;null;null;No;No;null
-307;Los siete locos;Arlt, R.;Losada;1974;Argentina;null;null;No;No;null
-308;Del amor y otros demonios;GarcÌa, G.;Penguin Random House;2015;Argentina;null;null;Si;No;null
-309;El hÈroe discreto;Vargas, M.;Penguin Random House;2015;Argentina;null;null;No;No;null
-310;PantaleÛn y las visitadoras;Vargas, M.;CÌrculo de Editores;1974;EspaÒa;null;null;No;No;null
-311;Cien aÒos de soledad;GarcÌa, G.;Penguin Random House;2016;EspaÒa;null;null;Si;No;null
-312;Tiempo de abrazar;Onetti, J.;Club Bruguera;1980;EspaÒa;null;null;Si;No;null
-313;Juntacad·veres;Onetti, J.;Planeta;1995;EspaÒa;null;null;Si;No;null
-314;Museo de la novela de la eterna (primera novela buena);Fern·ndez, M.;Corregidor;2015;Argentina;null;null;Si;No;null
-315;Adriana Buenos Aires (˙ltima novela mala);Fern·ndez, M.;Corregidor;2018;Argentina;null;null;Si;No;null
-316;Cuentos completos 1 (1945-1966);Cort·zar, J.;Alfaguara;2016;Argentina;null;null;Si;No;null
-317;La caverna;Saramago, J.;Alfaguara;2010;Uruguay;null;null;Si;No;null
-318;El limonero real;Saer, J.;Seix Barral;2010;Argentina;null;null;Si;No;null
-319;El juguete rabioso;Arlt, R.;Club Bruguera;1981;Brasil;null;null;Si;No;null
-320;El Aleph;Borges, J.;Sudamericana;2016;Argentina;null;null;Si;No;null
-321;El hombre que amaba a los perros;Padura, L.;Tusquets Editores;2020;Argentina;null;null;Si;No;null
-322;Las malas;Sosa, C.;Tusquets Editores;2020;Argentina;null;null;Si;No;null
-323;Eisejuaz;Gallardo, S.;La Biblioteca Argentina;2000;EspaÒa;null;null;Si;No;null
-324;Eva Luna;Allende, I.;Penguin Random House;2015;Argentina;null;null;Si;No;null
-325;Bajo este sol tremendo;Busqued, C.;Anagrama;2021;Argentina;null;null;Si;No;null
-326;1917;Kohan, M.;Godot;2017;Argentina;null;null;Si;No;null
-327;Ciencias morales;Kohan, M.;Anagrama;2016;Argentina;null;null;Si;No;null
-328;El rÌo sin orillas;Saer, J.;Seix Barral;2015;Argentina;null;null;Si;No;null
-329;La ocasiÛn;Saer, J.;Seix Barral;2019;Argentina;null;null;Si;No;null
-330;Los versos del Capit·n;Neruda, P.;Losada;1969;Argentina;null;null;Si;No;null
-331;La bomba;"Lalana, F. ; Alm·rcegui, J.";BruÒo;1999;EspaÒa;null;null;Si;No;null
-332;La sombra del gato y otros relatos de terror;LÛpez, C.;Alfaguara;2001;Argentina;null;null;Si;No;null
-333;Ensayo sobre la ceguera;Saramago, J.;Alfaguara;2018;Argentina;null;null;Si;No;null
-334;La ciudad y los perros;Vargas, M.;Seix Barral;1994;EspaÒa;null;null;Si;No;null
-335;Las aventuras de un cad·ver;Stevenson, R.;EdicomunicaciÛn;1999;EspaÒa;null;null;Si;No;null
-336;El proceso;Kafka, F.;Colihue;2012;Argentina;null;null;Si;No;null
-337;El nombre de la rosa;Eco, U.;Editorial Lumen;1982;Chile;null;null;Si;No;null
-338;Si una noche de invierno un viajero;Calvino, I.;Siruela;1999;EspaÒa;null;null;Si;No;null
-339;Campos roturados I;ShÛlojov, M.;Editorial Progreso Mosc˙;-;Rusia;null;null;Si;No;null
-340;Campos roturados II;ShÛlojov, M.;Editorial Progreso Mosc˙;-;Rusia;null;null;Si;No;null
-341;Recuerdos de la casa de los muertos;Dostoyevski, F.;Club Bruguera;1981;EspaÒa;null;null;Si;No;null
-342;Maus;Spiegelman, A.;Penguin Random House;2014;Argentina;null;null;Si;No;null
-343;Cartero;Bukowski, C.;Anagrama;2018;EspaÒa;null;null;Si;No;null
-344;FactÛtum;Bukowski, C.;Anagrama;2017;EspaÒa;null;null;Si;No;null
-345;Tales of ordinary madness;Bukowski, C.;Virgin Books;2009;Gran BretaÒa;null;null;Si;No;null
-346;AdiÛs a las armas;Hemingway, E.;Hyspamerica;2001;Argentina;null;null;Si;No;null
-347;El viejo y el mar;Hemingway, E.;Penguin Random House;2005;Argentina;null;null;Si;No;null
-348;La tercera ola. Volumen 1;Toffler, A.;Orbis;1986;EspaÒa;null;null;No;No;null
-349;Tar·ntula;Dylan, B.;OcÈano;2013;EspaÒa;null;null;Si;No;null
-350;Blade Runner;Dick, P.;Edhasa;2010;EspaÒa;null;null;Si;No;null
-351;Dune;Herbert, F.;Penguin Random House;2024;Argentina;null;null;Si;No;MarÌa Ramella
-352;El mesÌas de Dune;Herbert, F.;Penguin Random House;2024;Argentina;null;null;Si;No;null
-353;El perfume;S¸skind, P.;Seix Barral;1990;Argentina;null;null;Si;No;null
-354;Demian;Hesse, H.;Argonauta;2020;Argentina;null;null;Si;No;null
-355;El lobo estepario;Hesse, H.;Liburua;2014;MÈxico;null;null;Si;No;null
-356;Fuga sin fin;Roth, J.;Ediciones de la banda oriental;2014;Uruguay;null;null;Si;No;Regalado
-357;El niÒo con el pijama de rayas;Boyne, J.;Salamandra;2012;Argentina;null;null;Si;No;null
-358;El corazÛn de las tinieblas;Conrad, J.;Alianza Editorial;1981;EspaÒa;null;null;Si;No;null
-359;Hambre;Hamsun, K.;Editores mexicanos unidos;2015;MÈxico;null;null;Si;No;null
-360;Secretos imperfectos. Serie Bergman 1;"Hjorth, M. ; Rosenfeldt, H.";Planeta;2020;Argentina;null;null;Si;No;null
-361;CrÌmenes duplicados. Serie Bergman 2;"Hjorth, M. ; Rosenfeldt, H.";Planeta;2020;Argentina;null;null;Si;No;null
-362;Tokio Blues: Norwegian Wood;Murakami, H.;Tusquets Editores;2009;Argentina;null;null;Si;No;Ana Waisbein
-363;La ønueva? Estructura social de AmÈrica Latina;"Benza, G. ; Kessler, G.";Siglo XXI;2020;Argentina;null;null;Si;Si;null
-364;Escenarios energÈticos en AmÈrica Latina: debates frente al ocaso del capitalismo fÛsil;FundaciÛn Rosa Luxemburgo;FundaciÛn Rosa Luxemburgo;2024;Argentina;null;null;Si;Si;null
-365;Riesgo paÌs: la jerga financiera como mecanismo de poder;Aronskind, R.;Capital Intelectual;2007;Argentina;null;null;Si;Si;null
-366;La economÌa de las desigualdades: cÛmo implementar una redistribuciÛn justa y eficaz de la riqueza;Piketty, T.;Siglo XXI;2015;Argentina;null;null;Si;Si;null
-367;La nueva pobreza en la Argentina;"MinujÌn, A. ; Kessler, G.";Planeta;1995;Argentina;null;null;Si;Si;null
-368;Controversias sobre la desigualdad. Argentina, 20003-2013;Kessler, G.;Fondo de Cultura EconÛmica;2014;Argentina;null;null;Si;Si;null
-369;Desiguales: una guÌa para pensar la desigualdad econÛmica;Gasparini, L.;Edhasa;2022;Argentina;null;null;Si;Si;null
-370;IntroducciÛn a la economÌa;Dobb, M.;Fondo de Cultura EconÛmica;2017;MÈxico;null;null;Si;Si;null
-371;Pensamiento econÛmico de Manuel Belgrano: selecciÛn de artÌculos del Correo de Comercio 1810-1811;Belgrano, M.;Manuel Belgrano Ediciones;2021;Argentina;null;null;Si;Si;null
-372;QuÈ es (y quÈ no es) la estadÌstica: usos y abusos de una disciplina clave en la vida de los paÌses y las personas;Sosa, W.;Siglo XXI;2014;Argentina;null;null;Si;Si;null
-373;Big data: breve manual para conocer la ciencia de datos que ya invadiÛ nuestras vidas;Sosa, W.;Siglo XXI;2020;Argentina;null;null;Si;Si;null
-374;Historia de la sexualidad. 1. La voluntad de saber;Foucault, M.;Siglo XXI;2020;Argentina;null;null;Si;Si;null
-375;Historia de la sexualidad. 4. Las confesiones de la carne;Foucault, M.;Siglo XXI;2019;Argentina;null;null;Si;Si;null
-376;La verdad y las formas jurÌdicas;Foucault, M.;Gedisa;2014;Argentina;null;null;Si;Si;null
-377;El origen de la hermenÈutica de sÌ: Conferencias de Dartmouth, 1980;Foucault, M.;Siglo XXI;2016;Argentina;null;null;Si;Si;null
-378;Los espantos: estÈtica y postdictadura;Schwarzbˆck, S.;Cuarenta RÌos;2018;Argentina;null;null;Si;Si;null
-379;Realismo capitalista: øNo hay alternativa?;Fisher, M.;Caja Negra;2022;Argentina;null;null;Si;Si;null
-380;Fake news, trolls y otros encantos: cÛmo funcionan (para bien y para mal) las redes sociales;"Calvo, E. ; Aruguete, N.";Siglo XXI;2020;Argentina;null;null;Si;Si;null
-381;Las nuevas caras de la derecha: øPor quÈ funcionan las propuestas vacÌas y el dicurso enfurecido de los antisistema y cu·l es su potencial polÌtico real?;Traverso, E.;Siglo XXI;2021;Argentina;null;null;Si;Si;null
-382;øQuÈ hacemos con Menem?: los noventa veinte aÒos despuÈs;"RodrÌguez, M. ; Touzon, P.";Siglo XXI;2021;Argentina;null;null;Si;Si;null
-383;Los debates de la Dieta Renana;Marx, K.;Gedisa;2007;EspaÒa;null;null;Si;Si;null
-384;La Ètica protestante y el espÌritu del capitalismo;Weber, M.;Akal Ediciones;2019;EspaÒa;null;null;Si;Si;null
-385;SociologÌa de una revoluciÛn;Fanon, F.;Tinta LimÛn;2024;Argentina;null;null;Si;Si;null
-386;Argelia 60: estructuras econÛmicas y estructuras temporales;Bourdieu, P.;Siglo XXI;2013;Argentina;null;null;Si;Si;null
-387;Las estrategias de la reproducciÛn social;Bourdieu, P.;Siglo XXI;2018;Argentina;null;null;Si;Si;null
-388;Los herederos: los estudiantes y la cultura;"Bourdieu, P. ; Passeron, J.";Siglo XXI;2014;Argentina;null;null;Si;Si;null
-389;La Època de las pasiones tristes: de cÛmo este mundo desigual lleva a la frustraciÛn y el resentimiento, y desalienta la lucha por una sociedad mejor;Dubet, F.;Siglo XXI;2021;Argentina;null;null;Si;Si;null
-390;La filosofÌa como arma de la revoluciÛn;Althusser, L.;Siglo XXI;2016;MÈxico;null;null;Si;Si;null
-391;El sublime objeto de la ideologÌa;Zizek, S.;Siglo XXI;2019;Argentina;null;null;Si;Si;null
-392;El prÌncipe. Discursos sobre la primera dÈcada de Tito Livio. La mandr·gora. Clicia.;Maquiavelo;Vergara;1961;EspaÒa;null;null;No;No;null
-393;Leviat·n. O la materia, forma y poder de una rep˙blica eclesi·stica y civil.;Hobbes, T.;Fondo de Cultura EconÛmica;2017;MÈxico;null;null;Si;No;null
-394;El capital. Tomo 1. Volumen 1.;Marx, K.;Siglo XXI;2015;Argentina;null;null;Si;Si;null
-395;El capital. Tomo 1. Volumen 2.;Marx, K.;Siglo XXI;2016;Argentina;null;null;Si;Si;null
-396;El capital. Tomo 1. Volumen 3.;Marx, K.;Siglo XXI;2016;Argentina;null;null;Si;No;null
-397;AntologÌa. SelecciÛn e introducciÛn de Horacio Tarcus.;Marx, K.;Siglo XXI;2016;Argentina;null;null;Si;Si;null
-398;La pesquisa;Saer, J.;-;-;Argentina;null;null;Si;No;JosÈ Luis Fern·ndez
-399;Magnetizado;Busqued, C.;-;-;Argentina;null;null;Si;No;Laura Bruno
-400;AntologÌa PoÈtica;Hern·ndez, M.;-;-;EspaÒa;null;null;Si;No;null
-401;Dolor paÌs;Bleichmar, S.;Zorzal;2002;Argentina;null;null;Si;Si;null
-402;Cambio de …poca;Svampa, M.;Siglo XXI;-;Argentina;null;null;Si;No;Malena Silveyra
-403;Un mago de Terramar;Le Guin, U.;-;-;-;null;null;Si;No;Ignacio Fern·ndez
-404;Ejemplares ˙nicos;Rago, P.;Bajo La Luna;-;Argentina;null;null;Si;No;Delfina Lemann
-405;La era de la revoluciÛn (1789-1848);Hobsbawm, E.;PaidÛs;2020;Argentina;null;null;Si;No;null
-406;La era del capital (1848-1875);Hobsbawm, E.;PaidÛs;2020;Argentina;null;null;Si;No;null
-407;La era del imperio (1875-1914);Hobsbawm, E.;PaidÛs;2020;Argentina;null;null;Si;No;null
-408;Historia del Siglo XX;BÈjar, M.;Siglo XXI;2018;Argentina;null;null;Si;No;null
-409;Escritos latinoamericanos. En MÈxico (1937-1940);Trostsky, L.;IPS;2013;Argentina;null;null;Si;No;null
-410;La teorÌa de la revoluciÛn permanente;Trostsky, L.;IPS;2011;Argentina;null;null;Si;No;null
-411;Las venas abiertas de AmÈrica Latina;Galeano, E.;Siglo XXI;2012;Argentina;null;null;Si;No;null
-412;Con Trotsky de Prinkipo a Coyoac·n: testimonios de siete aÒos de exilio.;van Heijenoort, J.;IPS;2014;Argentina;null;null;Si;No;null
-413;Diario de una temporada en el quinto piso: episodios de polÌtica econÛmica en los aÒos de AlfonsÌn;Torre, J.;Edhasa;2024;Argentina;null;null;Si;No;Fede Arrachea
-414;Hermes Binner: primer gobernador socialista de la Argentina. Di·logos.;Attala, D.;Losada;2011;Argentina;null;null;Si;No;null
-415;Sinceramente;Fern·ndez, C.;Sudamericana;2019;Argentina;null;null;Si;No;null
-416;RadiografÌa de la corrupciÛn PRO de la ciudad a la presidencia de la naciÛn;"Maradeo, J. ; Damiani, I.";Planeta;2018;Argentina;null;null;Si;No;null
-417;Nadie vio Matrix;Graziano, W.;Planeta;2008;Argentina;null;null;Si;No;null
-418;Ezeiza;Verbitsky, H.;Editorial Contrapunto;1986;Argentina;null;null;Si;Si;null
-419;Obra periodÌstica: crÛnicas, entrevistas y perfiles 1952-1972;Urondo, F.;Adriana Hidalgo;2013;Argentina;null;null;Si;No;null
-420;Reportaje al pie de la horca;Fucik, J.;Ediciones Silaba;1978;Argentina;null;null;Si;No;null
-421;RepresiÛn franquista en el frente norte;"Roder, J. ; Moreno, J. ; Castrillo, J.";Eneida;2008;EspaÒa;null;null;Si;No;null
-422;El Estado y la revoluciÛn;Lenin, V.;Sol 90;2012;Argentina;null;null;Si;No;null
-423;Las fuerzas morales;Ingenieros, J.;Agebe;2006;Argentina;null;null;Si;No;null
-424;El peronismo y el golpe de Estado - 1966;Cooke, J.;AcciÛn Revolucionaria Socialista;1966;Argentina;null;null;No;No;null
-425;SociÛlog@s para quÈ? AÒo 17. N˙mero 12. Abril 2012;El Viejo Topo;El Viejo Topo;2012;Argentina;null;null;No;No;null
-426;Crisis #62;Crisis;Crisis;2024;Argentina;null;null;Si;No;null
-427;Crisis #63;Crisis;Crisis;2024;Argentina;null;null;Si;No;null
-428;Crisis #64;Crisis;Crisis;2024;Argentina;null;null;Si;No;null
-429;Crisis #65;Crisis;Crisis;2024;Argentina;null;null;Si;No;null
-430;Sarmiento: anecdotario.;Mortillaro, G.;Editorial Araujo;1938;Argentina;null;null;No;No;null
-431;Sarmiento y la ley 1420;Campobassi, J.;Departamento de extensiÛn universitaria de la universidad nacional del litoral;1960;Argentina;null;null;No;No;null
-432;Samiento. Sus ideas sobre religiÛn, educaciÛn y laicismo. Respuesta a un libro antisarmientista.;Campobassi, J.;Ediciones de la Liga Argentina de Cultura Laica;1963;Argentina;null;null;No;No;null
-433;Revista del Museo HistÛrico Sarmiento. N˙meros 12 y 13;Revista del Museo HistÛrico Sarmiento;SubsecretarÌa de Cultura;1967;Argentina;null;null;No;No;null
-434;Obras Completas 47;Sarmiento, D.;Editorial Luz del DÌa;1956;Argentina;null;null;No;No;null
-435;Obras Completas 51;Sarmiento, D.;Editorial Luz del DÌa;1956;Argentina;null;null;No;No;null
-436;Obras Completas 49;Sarmiento, D.;Editorial Luz del DÌa;1956;Argentina;null;null;No;No;null
-437;Obras Completas 52;Sarmiento, D.;Editorial Luz del DÌa;1956;Argentina;null;null;No;No;null
-438;BoletÌn Sarmiento 2;”rgano del Instituto Sarmiento de SociologÌa e Historia;”rgano del Instituto Sarmiento de SociologÌa e Historia;1965;Argentina;null;null;No;No;null
-439;La peste;Camus, A.;Sudamericana;1995;EspaÒa;null;null;Si;No;null
-440;Viajar al futuro (y volver para contarlo). La ciencia detr·s de los pronÛsticos.;Sosa, W.;Siglo XXI;2024;Argentina;null;null;Si;Si;Jime Arregui
-441;MacroeconomÌa;Blanchard, O.;Pearson;2025;Argentina;null;null;No;No;null
-442;High Inflation;"Heymann, D. ; Leijonhufvud, A.";Clarendon Express - Oxford;2024;Argentina;null;null;No;No;null
-443;Argentina Humana: TeorÌa y pr·ctica para la justicia social en el siglo XXI. Un proyecto contracultural.;Grabois, J.;Sudamericana;2024;Argentina;null;null;Si;Si;Laura Bruno
-444;Pandemia: un balance social y polÌtico de la crisis del COVID-19;Feierstein, D.;Fondo de Cultura EconÛmica;2021;Argentina;null;null;Si;Si;null
-445;De alemanes a nazis (1914-1933);Fritzsche, P.;Siglo XXI;2022;Argentina;null;null;Si;Si;null
-446;Bourdieu hoy;Varios;Aurelia Rivera Libros;2021;Argentina;null;null;Si;Si;null
-447;El contrato social;Rousseau, J.;Casa Editorial Maucci;?;EspaÒa;null;null;No;No;null
-448;Borges, Big Data y Yo;Sosa, W.;Siglo XXI;2021;Argentina;null;null;Si;Si;null
-449;H-Industria: Revista de historia de la industria, los servicios y las empresas en AmÈrica Latina. Nros 4-5. AÒo III;FCE-UBA;FCE-UBA;2003;Argentina;null;null;No;No;null
-450;El genocidio como pr·ctica social;Feierstein, D.;Fondo de Cultura EconÛmica;2023;Argentina;null;null;Si;Si;null
-451;Identity Economics;"Akerlof, G: ; Kranton, R.";Princeton University Press;2010;EEUU;null;null;Si;Si;null
-452;Crisis #66;Crisis;Crisis;2025;Argentina;null;null;Si;No;null
-453;Crisis #67;Crisis;Crisis;2025;Argentina;null;null;Si;No;null
-454;Estudios sobre los orÌgenes del peronismo;"Murmis, M. ;Portantiero, J.";Siglo XXI;2018;Argentina;null;null;No;No;null
-455;La sociedad cortesana;ElÌas, N.;Fondo de Cultura EconÛmica;2016;MÈxico;null;null;No;No;null
-456;Social and behavioural macroeconomics. Theoretical and policy perspectives;"Tsoukis, C. ; Tournemaine, F. ; Driffill, E.";Palgrave Macmillan;2025;Suiza;null;null;Si;Si;null
-457;Orgullo y prejuicio;Austen, J.;Edimat;2019;EspaÒa;null;null;No;No;null
-458;Los libros de Terramar II. Las tumbas de Atuan.;Le Guin, U.;Minotauro;2000;EspaÒa;null;null;No;No;Ignacio Fern·ndez
-459;Los libros de Terramar II. Las costa m·s lejana.;Le Guin, U.;Minotauro;2004;Argentina;null;null;No;No;Ignacio Fern·ndez
-460;La era del hartazgo. LÌderes disruptivos, polarizaciÛn y antipolÌtica en AmÈrica Latina.;"Kessler, G.; Vommaro; G.";Siglo XXI;2025;Argentina;null;null;Si;Si;null
-461;La alienaciÛn como fractura lÛgica y ontolÛgica en la ecologÌa del capital: sobre el abordaje marxista de la crisis clim·tica.;Ramella, M.;FFyL-UBA;2025;Argentina;null;null;Si;Si;null
-462;Crisis de la dictadura argentina. PolÌtica econÛmica y cambio social (1976-1983);"Jozami, E. ; Paz, P. ; Villareal, J.";Siglo XXI;1985;Argentina;null;null;Si;Si;null
-463;El asalto al cielo;Jacoby, R.;Mansalva;2014;Argentina;null;null;Si;Si;null
-464;Borges por Piglia;Piglia, R.;Eterna Cadencia Editora;2024;Argentina;null;null;No;No;null
-465;Niebla;Unamuno, M.;Ediciones del Viento;2014;EspaÒa;null;null;Si;No;null
-466;Consideraciones sobre el marxismo occidental;Anderons, P.;Siglo XXI;2021;MÈxico;null;null;Si;Si;null
-467;MelancolÌa de izquierda. Marxismo, historia y memoria.;Traverso, E.;Fondo de Cultura EconÛmica;2018;Argentina;null;null;No;No;null
-468;El eternauta;"Oesterheld, H. ; Solano, F.";Planeta;2025;Argentina;null;null;Si;Si;null
-469;El infinito en un junco. La invenciÛn de los libros en el mundo antiguo.;Vallejo, I.;Penguin Random House;2022;EspaÒa;null;null;Si;No;null
-470;El secreto atÛmico de Huemul. CrÛnica del origen de la energÌa atÛmica en Argentina.;Mariscotti, M.;Lenguaje Claro Editora;2016;Argentina;null;null;Si;No;Ciro Hartmann
-471;Crisis #68;Crisis;Crisis;2025;Argentina;null;null;Si;No;null
-472;Crisis #69;Crisis;Crisis;2025;Argentina;null;null;Si;No;null
-473;El perjuirio de la nieve;Bioy, A.;Colihue;2011;Argentina;null;null;Si;No;null
-474;Las estructuras sociales de la economÌa;Bourdieu, P.;Manantial;2001;Argentina;null;null;No;No;null
-475;Entre la equidad y el crecimiento. Ascenso y caÌda de la economÌa argentina, 1880-2002.;"Llach, L. ; Gerchunoff, P.";Siglo XXI;2004;Argentina;null;null;Si;Si;null
-476;Exilio;"Gelman, J. ; Bayer, O.";Legasa;1984;Argentina;null;null;Si;No;null
-477;OperaciÛn Masacre;Walsh, R.;Ediciones de la Flor;1972;Argentina;null;null;No;No;null
-478;PerÛn por PerÛn. Los m·s importantes discursos y mensajes 1943-1973.;Del RÌo, A.;KikiyÛn;1972;Argentina;null;null;No;No;null
-479;PerÛn - PerÛn. 1973-1976.;Di Tella, G.;Sudamericana;1983;Argentina;null;null;No;No;null
-480;El loro de Flaubert;Barnes, J.;Anagrama;2013;Argentina;null;null;Si;No;null
-481;La ridÌcula idea de no volver a verte;Montero, R.;Seix Barral;2013;Argentina;null;null;Si;No;null
-482;La insoportable levedad del ser;Kundera, M.;Tusquets Editores;2007;Argentina;null;null;Si;No;null
-483;La muerte de la familia;Cooper, D.;Planeta;1986;EspaÒa;null;null;No;No;null
-484;Crisis #70;Crisis;Crisis;2025;Argentina;null;null;No;No;null
-485;El hombre mediocre;Ingenieros, J.;Losada;1997;Argentina;null;null;No;No;null
-486;Perestroika. Nuvas ideas para nuestro paÌs y el mundo.;Gorbachov, M.;EmecÈ;1998;Argentina;null;null;No;No;null
-487;SociologÌa de Marx;Lefebvre, H.;Editorial Eureka;1970;Uruguay;null;null;No;No;null
-488;Modernidad LÌquida;Bauman, Z.;Fondo de Cultura EconÛmica;2015;Argentina;null;null;No;No;null
-489;Ad·n Buenosayres;Marechal, L.;ClarÌn;2000;EspaÒa;null;null;No;No;null
-490;La sangre derramada. Ensayo sobre la violencia polÌtica.;Feinmann, J.;Ariel;1999;Argentina;null;null;No;No;null
-491;El jefe. Vida y obra de Carlos Sa˙l Menem.;Cerruti, G.;Planeta;1993;Argentina;null;null;No;No;null
-492;Cantar del Cid;"MenÈndez, R. ; Reyes, A.";ESPASA-CALPE;1976;EspaÒa;null;null;No;No;null
-493;Meditaciones metafÌsicas;Descartes, R.;Aguilar;1970;Argentina;null;null;No;No;null
-494;El ciclo de la revoluciÛn contempor·nea;Romero, J.;Editorial Huemul;1980;Argentina;null;null;No;No;null
-495;El marxismo de indias;Abelardo, J.;Planeta;1973;EspaÒa;null;null;No;No;null
-496;1940-1975 Gran BretaÒa, Estados Unidos y las clases dirigentes argentinas.;Rapoport, M.;Editorial de Belgrano;1980;Argentina;null;null;No;No;null
-497;Lecciones de octubre. øQuÈ fue la revoluciÛn rusa?;Trostsky, L.;El Yunque Editora;1975;Argentina;null;null;No;No;null
-498;RadiografÌa de la Pampa;MartÌnez, E.;Hyspamerica;1986;Argentina;null;null;No;No;null
-499;Las nuevas sociologÌas. Principales corrientes y debates, 1980-2010.;Corcuff, P.;Siglo XXI;2013;Argentina;null;null;No;No;null
-500;Una invitaciÛn a la sociologÌa reflexiva;Bourdieu, P.;Siglo XXI;;Argentina;null;null;No;No;null
-501;Revista Realidad EconÛmica #200;IADE;IADE;2003;Argentina;null;null;No;No;null
-502;Revista Realidad EconÛmica #242;IADE;IADE;2009;Argentina;null;null;No;No;null
-503;Revista Realidad EconÛmica #245;IADE;IADE;2009;Argentina;null;null;No;No;null
-504;Revista Realidad EconÛmica #251;IADE;IADE;2010;Argentina;null;null;No;No;null
-505;Revista Realidad EconÛmica #259;IADE;IADE;2011;Argentina;null;null;No;No;null
-506;Revista Desarrollo EconÛmico vol 53 #209-210;IDES;IDES;2013;Argentina;null;null;No;No;null
-507;Revista Desarrollo EconÛmico vol 50 #199;IDES;IDES;2010;Argentina;null;null;No;No;null
-508;Revista Desarrollo EconÛmico vol 25 #99;IDES;IDES;1985;Argentina;null;null;No;No;null
-509;Revista Desarrollo EconÛmico vol 18 #70;IDES;IDES;1978;Argentina;null;null;No;No;null
-510;Revista Desarrollo EconÛmico vol 6 #22-23;IDES;IDES;1966;Argentina;null;null;No;No;null
-511;Revista Desarrollo EconÛmico vol 3 #1-2;IDES;IDES;1963;Argentina;null;null;No;No;null
-512;Experiencia mexicana en aceleradores de partÌculas;De la Paz, M.;Siglo XXI;2004;MÈxico;null;null;No;No;null
-513;Tendencia y ciclo en economÌa. TeorÌa y evidencia empÌrica.;Mendoza, G.;UNAM;2015;MÈxico;null;null;No;No;null
-514;Bartleby. El escribiente (adaptaciÛn).;Molina, E.;Latino Toons;2024;MÈxico;null;null;Si;No;null
-515;Herbert West: reanimador (adaptaciÛn).;Molina, E.;Latino Toons;2023;MÈxico;null;null;No;No;null
-516;EconomÌa Informa #451;FEUNAM;UNAM;2025;MÈxico;null;null;No;No;null
-517;Crisis polÌtica y guerra en El Salvador;Gordon, S.;Siglo XXI;1989;MÈxico;null;null;No;No;null
-518;TeorÌa de juegos. Una introducciÛn matem·tica a la toma de decisiones.;"Amster, P. ; Pinasco, J.";Fondo de Cultura EconÛmica;2014;MÈxico;null;null;Si;Si;null
-519;La cara esfÈrica;PÈrez-Reverte, A.;Alfaguara;2000;EspaÒa;null;null;No;No;null
-520;La crisis econÛmica en AmÈrica Latina. Alcances e impactos.;Machinea, J.;Siglo XXI;2010;EspaÒa;null;null;No;No;null
-521;Por quiÈn doblan las campanas;Hemingway, E.;Epoca;-;MÈxico;null;null;Si;No;null
-522;El llano en llamas;Rulfo, J.;Fondo de Cultura EconÛmica;1975;MÈxico;null;null;Si;No;null
-523;La velocidad de la luz;Cercas, J.;Penguin Random House;2015;MÈxico;null;null;Si;No;null
-524;La gran transformaciÛn. Los orÌgenes polÌticos y econÛmicos de nuestro tiempo.;Polanyi, K.;Fondo de Cultura EconÛmica;2017;MÈxico;null;null;No;No;null
-525;Brasil, 2000. Hacia un nuevo pacto social.;"Jaguaribe, H. ; dos Santos, W. ; de Paiva Abreu, M. ; Fritsch, W. ; Bastos de ¡vila, F.";Fondo de Cultura EconÛmica;1989;MÈxico;null;null;Si;Si;null
-526;El mago del Kremlin;da Empoli, G.;Seix Barral;2023;MÈxico;null;null;Si;No;null
-527;El infierno tan temido y otros cuentos;Onetti, J.;Fondo de Cultura EconÛmica;2025;MÈxico;null;null;No;No;null
-528;GeografÌas;Benedetti, M.;Fondo de Cultura EconÛmica;2025;MÈxico;null;null;Si;No;null
-529;La guerra de los mundos;Wells, H.;Mirlo Ediciones;2024;China;null;null;Si;No;null
-530;El extraÒo caso del Dr. Jekyll y Mr. Hyde;Stevenson, R. L.;Mirlo Ediciones;2025;China;null;null;Si;No;null
-531;Soldados de Salamina;Cercas, J.;Penguin Random House;2017;MÈxico;null;null;Si;No;null
-532;Barbarie. Seminario Did·ctica.;Glazman, R.;FFL UNAM;2016;MÈxico;null;null;No;No;null
-533;Estado, poder y socialismo;Poulantzas, N.;Siglo XXI;1980;EspaÒa;null;null;No;No;null
-534;La edad media;Romero, J. L.;Fondo de Cultura EconÛmica;2025;MÈxico;null;null;Si;Si;null
-535;De paganos, judÌos y cristianos;Momigliano, A.;Fondo de Cultura EconÛmica;2025;MÈxico;null;null;No;No;null
-536;FilosofÌa de la liberaciÛn;Dussel, E.;Fondo de Cultura EconÛmica;2025;MÈxico;null;null;No;No;null
-537;I, Claudius;Graves, R.;Penguin Random House;1961;EEUU;null;null;No;No;null
-538;FouchÈ. El genio tenebroso.;Zweig, S.;Editorial …poca;2008;MÈxico;null;null;No;No;null
-539;Sandokan: La mujer pirata.;Salgari, E.;Editorial Porr˙a;1988;MÈxico;null;null;No;No;null
-540;Brida;Coelho, P.;Grijalbo;2004;MÈxico;null;null;No;No;null
-541;En la Patagonia;Chatwin, B.;Quinteto;2002;EspaÒa;null;null;Si;No;null
-542;Patagonia Express;Sep˙lveda, L.;Tusquets Editores;1996;MÈxico;null;null;Si;No;null
-543;"El laberinto de la soledad. Postdata. Vuelta a ""El laberinto de la soledad"".";Paz, O.;Fondo de Cultura EconÛmica;2004;MÈxico;null;null;No;No;null
-544;El seÒor de Bembibre. El lago de Carucedo. ArtÌculos de costumbres.;Gil y Carrasco, E.;Editorial Porr˙a;1984;MÈxico;null;null;No;No;null
-545;La teorÌa del crecimiento equilibrado;Dixit, A. K.;Fondo de Cultura EconÛmica;1987;MÈxico;null;null;No;No;null
-546;TeorÌa y experiencia del desarrollo econÛmico;"Gersovitz, M. ; DÌaz-Alejandro, C. F. ; Ranis, G. ; Rosenzweig, M. R.";Fondo de Cultura EconÛmica;1985;MÈxico;null;null;No;No;null
-547;TeorÌa econÛmica en retrospecciÛn;Blaug, M.;Fondo de Cultura EconÛmica;2001;MÈxico;null;null;No;No;null
-548;La promesa de la privatizaciÛn. Un desafÌo para la polÌtica exterior de los Estados Unidos.;Vernon, R.;Fondo de Cultura EconÛmica;1995;Chile;null;null;No;No;null
-549;Los mercaderes y el capitalismo en MÈxico (1759-1778).;Borchart de Moreno, C. R.;Fondo de Cultura EconÛmica;1984;MÈxico;null;null;No;No;null
-550;Los detectives salvajes;BolaÒo, R.;Penguin Random House;2025;MÈxico;null;null;Si;No;null
-551;El Capital. Libro I CapÌtulo VI (inÈdito). Resultados del proceso inmediato de producciÛn.;Marx, K.;Siglo XXI;2019;MÈxico;null;null;No;No;null
-552;Retornamos como sombras;Taibo II, P. I.;Planeta;2020;MÈxico;null;null;No;No;null
-553;Behemoth. Violencia colectiva, polÌtica y criminal en el MÈxico contempor·neo.;Estrada Saavedra, M.;El Colegio de MÈxico;2025;MÈxico;null;null;No;No;null
-554;Che Guevara: Instant·neas flashes momentos.;Taibo II, P. I.;Utopix;2022;MÈxico;null;null;No;No;null
-555;En los ojos de los gatos;RenterÌa, E.;Tusquets Editores;2008;MÈxico;null;null;No;No;null
-556;El evangelio seg˙n Jesucristo;Saramago, J.;Alfaguara;2019;MÈxico;null;null;No;No;null
-557;El loco en el fin del mundo;Cercas, J.;Penguin Random House;2025;MÈxico;null;null;No;No;null
+ID,Titulo,Autore,Editorial,A√±o,Pais,Genero_1,Genero_2,Leido,Subrayado,Prestado a
+1,La silla del √°guila,"Fuentes, C.",Santillana,2004,Espa√±a,,,No,No,
+2,Psicolog√≠a de la vida cotidiana,"Pichon-Riviere, E. ; Pampliega, A.",Nueva Visi√≥n,1985,Argentina,,,No,No,
+3,El cumplea√±os de Juan √Ångel,"Benedetti, M.",Biblioteca de Marcha,1971,Uruguay,,,No,No,
+4,Los senderos de Foucault,"Abraham, T.",Nueva Visi√≥n,1989,Argentina,,,No,No,
+5,El medio es el masaje,"McLuhan, M. ; Fiore, Q.",Paid√≥s,1969,Argentina,,,No,No,
+6,Los laberintos de la crisis. Am√©rica Latina: poder transnacional y comunicaciones,"Argumedo, A.",Folios Ediciones,1984,Argentina,,,No,No,
+7,Isidro Vel√°zquez. Formas pre revolucionarias de la violencia,"Carri, R.",Sudestada,1968,Argentina,,,Si,Si,
+8,La noche de los bastones largos. 30 a√±os despu√©s,"Morero, S.",P√°gina 12,1996,Argentina,,,No,No,
+9,Los para√≠sos artificiales. EL vino y el hach√≠s. La Fanfarlo,"Baudelaire, C.",M. E. Editores,1994,Espa√±a,,,No,No,
+10,Palabra de autor: Cartas de Julio Cort√°zar,"Cort√°zar, J.",Alfaguara,2004,Argentina,,,No,No,
+11,Iluminaciones,"Rimbaud, A.",NEED,1999,Argentina,,,No,No,
+12,El vecindario urbano: una perspectiva sociol√≥gica,"Keller, S.",Siglo XXI,1975,Espa√±a,,,No,No,
+13,"Obras inmortales (As√≠ habla zaratrusta, El anticristo, C√≥mo se filosofa a martillazos, M√°s all√° del bien y del mal, Humano demasiado humano, La voluntad del poder√≠o)","Nietzsche, F.",EDAF,1968,Espa√±a,,,No,No,
+14,Elogio de la desobediencia,"Brauman, R. ; Sivan, E.",Fondo de Cultura Econ√≥mica,2000,Argentina,,,No,No,
+15,Los 70 a destajo: ajoblanco y libertad,"Ribas, J.",Emec√©,2007,Argentina,,,No,No,
+16,Mirar con nuevos ojos: Nuevos paradigmas en la ciencia y pensamiento complejo,"Najmanovich, D.",Biblos,2008,Argentina,,,No,No,
+17,Cr√≥nicas del √Ångel Gris,"Dolina, A.",Colihue,2008,Argentina,,,No,No,
+18,Los pibes chorros: estigma y marginaci√≥n,"M√≠guez, D.",Capital Intelectual,2004,Argentina,,,No,No,
+19,La comunicaci√≥n municipal c√≥mplice con los ciudadanos,"Puig, T.",Paid√≥s,2003,Argentina,,,No,No,
+20,Amor y Anarqu√≠a,"Caparr√≥s, M.",Planeta,2010,Argentina,,,Si,No,
+21,Harp√≠as y Nereidas: pasiones y muertes en los setenta,"Bufano, S.",Losada,2007,Argentina,,,No,No,
+22,El autorretrato en el documental,"Schefer, R.",Cat√°logos,2008,Argentina,,,No,No,
+23,Biograf√≠a de mi c√°ncer,"Kolesnicov, P.",Sudamericana,2002,Argentina,,,No,No,
+24,El mundo en la nueva era imperial,"Ramonet, I.",Le Monde Diplomatique ,2002,Argentina,,,No,No,
+25,Cr√≠menes Imperceptibles,"Mart√≠nez, G.",Planeta,2008,Argentina,,,No,No,
+26,Bibliocast√≠a,"Solari, T.; G√≥mez, J.",Eudeba,2008,Argentina,,,No,No,
+27,Raz√≥n y Violencia: Una d√©cada de pensamiento sartreano,"Laing, R.; Cooper, D.",Paid√≥s,1973,Argentina,,,No,No,
+28,Se acab√≥ la diversi√≥n,"Puig, T.",Paid√≥s,2007,Argentina,,,No,No,
+29,Homo Faber,"Benavente, D.","OIT, PREALC",1988,Chile,,,No,No,
+30,Desempleo y bienestar psicol√≥gico,"Estramiana, J.",Siglo XXI,1992,Espa√±a,,,No,No,
+31,"Organismos, estructuras, m√°quinas: Para una teor√≠a del organismo","Wieser, W.",Eudeba,1962,Argentina,,,No,No,
+32,Saber popular y educaci√≥n en Am√©rica Latina,"Hern√°ndez, I. et al",B√∫squeda S.A.E.I.C.,1985,Argentina,,,No,No,
+33,"Territorio, conocimiento y competitividad de las empresas","Boscherini, F. ; Poma, L.",Mi√±o y D√°vila,2000,Espa√±a,,,No,No,
+34,En la frontera: Trabajos de Psicoan√°lisis y Socioan√°lisis,"Rodr√≠guez, J.",Multiplicidades,1995,Argentina,,,No,No,
+35,Y t√∫ tambi√©n te vas: Argentina y el dinero,"√Åvila, P.",Adriana Hidalgo,2007,Argentina,,,No,No,
+36,Red de redes: Las pr√°cticas de la intervenci√≥n en redes sociales,"Dabas, E.",Paid√≥s,1998,Argentina,,,No,No,
+37,Cuando el verbo se hace carne: Lenguaje y naturaleza humana,"Virno, P.",Tinta Lim√≥n,2004,Argentina,,,No,No,
+38,Historia de las madres de Plaza de Mayo,Asociaci√≥n de Madres de Plaza de Mayo,P√°gina 12,1996,Argentina,,,No,No,
+39,Ventana Sur: Connecting with the Latin American Film Industry,INCAA,INCAA,2008,Argentina,,,No,No,
+40,La comunicaci√≥n global: Comunicaci√≥n institucional y de gesti√≥n,"Weil, P.",Paid√≥s,1992,Argentina,,,No,No,
+41,Monte madre: Her√≥ica historia de compromiso y dignidad,"Miceli, J.","Miceli, J.",2006,Argentina,,,No,No,
+42,El juego de los v√≠nculos. Subjetividad y Redes: Figuras en mutaci√≥n,"Najmanovich, D.",Biblos,2005,Argentina,,,No,No,
+43,"Los libros son tuyos. Pol√≠ticos, acad√©micos y militares: La dictadura en Eudeba","Invernizzi, H.",Eudeba,2005,Argentina,,,No,No,
+44,Mitolog√≠a Griega,"Railos, S.",CRM,2005,Espa√±a,,,No,No,
+45,El cuenco de las ciudades mestizas: una historia del gran buenos aires,El Culebr√≥n Timbal,Productora Escuela Cultural Comunitaria,-,Argentina,,,No,No,
+46,Ramonet: el mundo en la nueva era imperial. Converaciones con Jorge Halper√≠n,"Halper√≠n, J.",Le Monde Diplomatique ,2002,Argentina,,,No,No,
+47,Dulce p√°jaro de la juventud. Escaleras al techo. El cuaderno de Trigorin,"Williams, T.",Losada,2004,Argentina,,,No,No,
+48,Breve tratado para atacar la realidad,"L√≥pez, S.",Tinta Lim√≥n,2009,Argentina,,,No,No,
+49,Juicio final,"Katzenbach, J.",Ediciones B,2006,Espa√±a,,,No,No,
+50,Generaci√≥n de empleo: la microempresa como alternativa,"Rofman, A. ; Moreno, G.",CEUR,1988,Argentina,,,No,No,
+51,Situaciones postales,"Abraham, T.",Anagrama,2002,Espa√±a,,,No,No,
+52,El dolor de ya no ser: de los abuelos a nosotros,"Santore, M.",Gr√°fica Buenos Aires,2002,Argentina,,,No,No,
+53,Neocapitalismo y comunicaci√≥n de masa,"Muraro, H.",Eudeba,1974,Argentina,,,No,No,
+54,Raro,"Prado, B.",Plaza y Janes,1995,Espa√±a,,,No,No,
+55,El mundo del trabajo urbano (1890-1914),"Falc√≥n, R.",Centro Editor de Am√©rica Latina,1986,Argentina,,,No,No,
+56,La vida sexual de Catherine M.,"Millet, C.",Quinteto,2005,Espa√±a,,,No,No,
+57,Las venas abiertas de Am√©rica Latina,"Galeano, E.",Siglo XXI,1974,Argentina,,,Si,No,
+58,Pel√≠culas que escuchan: Reconstrucci√≥n de la identidad en once films chilenos y argentinos,"Donoso, C.",Corregidor,2007,Argentina,,,No,No,
+59,Movimientos del pensar. Diarios.,"Wittgenstein, L.",Elsa Somavilla,2000,Espa√±a,,,No,No,
+60,Tratado pol√≠tico: introducci√≥n y notas de Ernesto Funes,"de Espinoza, B.",Quadrata,2005,Argentina,,,No,No,
+61,Juvenilia,"Can√©, M.",Colihue,2000,Argentina,,,No,No,
+62,La otra juvenilia,"Gara√±o, S. ; Pertot, W.",Biblos,2002,Argentina,,,Si,No,
+63,Que sigan los √©xitos,"Paz y Rudy, D.",P√°gina 12,1996,Argentina,,,No,No,
+64,Lo imaginario,"Sartre, J.",Losada,1982,Argentina,,,No,No,
+65,Buenos Aires negra. Identidad y cultura,"Maronese, L.",gobBsAs,2006,Argentina,,,No,No,
+66,Etimolog√≠a de las pasiones,"Bordelois, I.",Zorzal,2006,Argentina,,,No,No,
+67,Expedientes secretos,"Paz y Rudy, D.",P√°gina 12,1997,Argentina,,,No,No,
+68,Los fundadores: cr√≥nicas y poemas de la colonia,-,Centro Editor de Am√©rica Latina,1967,Argentina,,,No,No,
+69,Quemando cromo,"Gibson, W.",Minotauro,1994,Espa√±a,,,No,No,
+70,An√°lisis organizacional y empresa unipersonal: Crisis y conflicto en contextos turbulentos,"Schlemenson, A.",Paid√≥s,1993,Argentina,,,No,No,
+71,Cine y dictadura: la censura al desnudo,"Gociol, J. ; Invernizzi, H.",Capital Intelectual,2006,Argentina,,,No,No,
+72,La generaci√≥n Nasdaq: Apogeo (¬øy derrumbe?) de la econom√≠a digital,"Piscitelli, A.",Granica,2001,Argentina,,,No,No,
+73,Testimonio de la realidad de la ilusi√≥n,"Brabazon, F.",Francis Brabazon,2006,Argentina,,,No,No,
+74,Entre usted y yo: T√©cnicas para su marketing personal,"Mej√≠as, C.",Planeta,1998,Argentina,,,No,No,
+75,Comunicaciones p√∫blicas: el modelo de la comunicaci√≥n integrada,"Amado, A. ; Castro, C.",Temas Grupo Editorial,1998,Argentina,,,No,No,
+76,Plan nacional de formaci√≥n e inserci√≥n profesional,Ministerio de Trabajo y Seguridad Social (Esp),Ministerio de Trabajo y Seguridad Social (Esp),1991,Espa√±a,,,No,No,
+77,B√∫squeda de trabajo: Soluci√≥n a un problema,"Porot, D.",Cv Newsletter/Atl√°ntida,1989,Argentina,,,No,No,
+78,Cine: un lugar para el amor,"Farina, A.",Marcelo H. Oliveri Editor,2010,Argentina,,,No,No,
+79,Durango Perdido: Diario de rodaje de Perdita Durango,"Bardem, C.",Ediciones B,1997,Espa√±a,,,No,No,
+80,Educaci√≥n y capacitaci√≥n de los trabajadores,"UTN, F. Friedrich Ebert, OIT","UTN, F. Friedrich Ebert, OIT",-,Argentina,,,No,No,
+81,Comunicaci√≥n de masas,"Wright, C.",Paid√≥s,1980,Argentina,,,No,No,
+82,Contribuci√≥n de la televisi√≥n argentina al subdesarrollo,"de Zavaleta, E.",Editorial Cuarto Mundo,1975,Argentina,,,No,No,
+83,Cuentos para despu√©s del div√°n,"Hazaki, C.",Editorial Topia,2006,Argentina,,,No,No,
+84,Epitafios: El derecho a la muerte escrita,"Gusm√°n, L.",Grupo Editorial Norma,2005,Argentina,,,No,No,
+85,Las cinco preguntas m√°s importantes que usted debe formularse sobre su organizaci√≥n sin fines de lucro,"Rossum, C.",Granica,1995,Argentina,,,No,No,
+86,199 preguntas sobre marketing y publicidad,"Bonta, P. ; Farber, M.",Grupo Editorial Norma,1994,Argentina,,,No,No,
+87,"Pobreza, un tema impostergable: nuevas respuestas a nivel mundial","Kliksberg, B.",Fondo de Cultura Econ√≥mica,1993,M√©xico,,,No,No,
+88,Del fragmento a la situaci√≥n: Notas sobre la subjetividad contempor√°nea,Grupo Doce,Grupo Doce,2001,Argentina,,,No,No,
+89,Hacia una gesti√≥n pariticpativa y eficaz,"Burin, D. ; Karl, I. ; Levin, L.",Ediciones Ciccus,1995,Argentina,,,No,No,
+90,"Propuestas, debates y ponencias: ""El empleo: una cuesti√≥n de Estado""",1er Congreso Nacional de Empleo y Capacitaci√≥n Laboral,MTSS,1999,Argentina,,,No,No,
+91,La era de la desolaci√≥n: √©tica y moral en la Argentina de fin de siglo,"Scavino, D.",Ediciones Manantial,1996,Argentina,,,No,No,
+92,Los sue√±os nucleares de Reagan,"Dorfman, A.",Legasa,1986,Argentina,,,No,No,
+93,"Seminario Gestao Democr√°tica das Cidades: Metodolog√≠as de participaci√≥n, redes y movimientos sociales",PPGA/FLACSO,PPGA/FLACSO,2002,Brasil,,,No,No,
+94,Acontecimiento: Revista para pensar la pol√≠tica. N√∫mero 26,"Badiou, A.",Grupo Acontecimiento,2003,Argentina,,,No,No,
+95,Identidad cultural y cambio tecnol√≥gico en Am√©rica Latina,"Azcuy, E.",Centro de Estudios Latinoamericanos,1985,Argentina,,,No,No,
+96,Comunicaci√≥n social y desarrollo nacional Am√©rica Latina,"Getino, O.",Centro de estudios para la comunicaci√≥n popular,1983,M√©xico,,,No,No,
+97,"Turismo, comunicaci√≥n social y desarrollo","Getino, O.",Edimedios,1983,M√©xico,,,No,No,
+98,"Inem Barcelona, Memoria 1988",MTSS,MTSS,1988,Espa√±a,,,No,No,
+99,Vigilar y castigar: nacimiento de la prisi√≥n,"Foucault, M.",Siglo XXI,1987,M√©xico,,,No,No,
+100,El grupo y sus configuraciones: terapia psicoanal√≠tica,"Puget, J. ; Bernard, M. ; Games, G. ; Romano, E.",Lugar Editorial,1982,Argentina,,,No,No,
+101,Antropolog√≠a del cuerpo y modernidad,"Le Breton, D.",Nueva Visi√≥n,2006,Argentina,,,No,No,
+102,Todos eran mi hijos. Despu√©s de la ca√≠da.,"Miller, A.",Losada,2004,Argentina,,,No,No,
+103,Conversaciones con Enrique Pichon-Riviere: Sobre el arte y la locura,"Zito Lema, V.",Ediciones Cinco,1986,Argentina,,,No,No,
+104,Algo va a pasar,"Esber, H.",De la campana,2002,Argentina,,,No,No,
+105,Hijo de Dios,"McCarthy, C.",Editorial Debate,2001,Espa√±a,,,No,No,
+106,Iniciativa empresarial y desarrollo econ√≥mico local: recomendaciones para la aplicaci√≥n de programas y pol√≠ticas,OCDE,OCDE,2003,Espa√±a,,,No,No,
+107,El traductor,"Benesdra, S.",Ediciones La Flor,2003,Espa√±a,,,No,No,
+108,Libro blanco sobre el empleo en Argentina,MTSS,MTSS,1995,Argentina,,,No,No,
+109,Pol√≠ticas de la memoria: tensiones en la palabra y la imagen,"Lorenzano, S. ; Buchenhorst, R.",Editorial Gorla,2007,Argentina,,,No,No,
+110,Las pol√≠ticas de migraciones internacionales,"M√°rmora, L.",Paid√≥s,2004,Argentina,,,No,No,
+111,"Desocupaci√≥n: Individuo, familia, sociedad",FUNDAIH,FUNDAIH,1996,Argentina,,,No,No,
+112,Antolog√≠a Po√©tica,"Ferlinghetti, L.",Ediciones del Mediod√≠a,1969,Argentina,,,No,No,
+113,Atardeceres,"Jitrik, N.",Ediciones al Margen,2006,Argentina,,,No,No,
+114,Para un an√°lisis ideol√≥gico del periodismo,"Claro, M.",Editorial Precursora,1983,Argentina,,,No,No,
+115,Periodismo y cultura,Varios,Tercer Mundo Editores,1991,Colombia,,,No,No,
+116,Televisi√≥n: la realidad como espect√°culo,"Colombo, F.",Editorial Gustavo Gili,1976,Espa√±a,,,No,No,
+117,La comunicaci√≥n masiva en el proceso de liberaci√≥n,"Matterlart, A.",Siglo XXI,1974,Argentina,,,No,No,
+118,Problemas de comunicaci√≥n y desarrollo,"Aprea, G.",Prometeo Libros,2004,Argentina,,,No,No,
+119,Formaci√≥n y empleo: estrategias posibles,"del R√≠o, E. ; Jover, D. ; Riesco, L.",Paid√≥s,1991,Espa√±a,,,No,No,
+120,Teor√≠as de la comunicaci√≥n masiva,"De Fleur, M.",Paid√≥s,1980,Argentina,,,No,No,
+121,Traiciones: la figura del traidor en los relatos acerca de los sobrevivientes de la represi√≥n,"Longoni, A.",Grupo Editorial Norma,2007,Argentina,,,No,No,
+122,Una Argentina posible: Problemas pol√≠ticos y recursos econ√≥micos,"Calcagno, E. ; Calcagno, A.",Le Monde Diplomatique ,2004,Argentina,,,No,No,
+123,El Estado y sus otros,"Calveiro, P.",Libros de la Araucaria,2006,Argentina,,,No,No,
+124,La cultura de la satisfacci√≥n,"Kenneth, J.",Emec√©,1992,Argentina,,,No,No,
+125,La vida en la pantalla: La construcci√≥n de la identidad en la er de internet,"Turkle, S.",Paid√≥s,1997,Espa√±a,,,No,No,
+126,Esbozo de una antropolog√≠a filos√≥fica americana,"Kusch, R.",Casta√±eda,1978,Argentina,,,No,No,
+127,Lo que todo peque√±o empresario debe saber,"Meredith, G. ; Nelson, R. ; Neck, P.",OIT,1988,Suiza,,,No,No,
+128,La micro empresa en el desarrollo local y regional: una contribuci√≥n para el ciudadano,"Schujman, L.",U.N.R. Editora,1992,Argentina,,,No,No,
+129,Acci√≥n municipal y microempresa,"Gonz√°lez, M. ; Hidalgo, L.",PET,1995,Chile,,,No,No,
+130,Antolog√≠a de ensayos en vivo. Vol√∫men 1.,Ensayos en Libro,Ensayos en Libro,2009,Argentina,,,No,No,
+131,S√≥lo las cosas,"Valle, A.",Ensayos en Libro,2008,Argentina,,,No,No,
+132,Las bodas universales,"Huasi, J.",-,1962,-,,,No,No,
+133,Cuando ya no importe,"Onetti, J.",Punto de Lectura,2008,Argentina,,,No,No,
+134,"Pobreza, el drama cotidiano. Clave para una nueva gerencia social eficiente.","Kliksberg, B.",Grupo Editorial Norma,1995,Argentina,,,No,No,
+135,El mundo como supermercado,"Houllebecq, M.",Anagrama,2000,Espa√±a,,,No,No,
+136,"Corrupci√≥n, crimen y violencia","Schargrodsky, E. ; Cornblit, O. ; Canavese, A.",La Cruj√≠a Ediciones,2004,Argentina,,,No,No,
+137,Nuevas tecnolog√≠as y desempleo,"Sylos, P.",Fondo de Cultura Econ√≥mica,1993,M√©xico,,,No,No,
+138,Sin trabajo: las caracter√≠sticas del desempleo y sus efectos en la sociedad argentina,"Beccaria, L. ; L√≥pez, N.",Losada,1996,Argentina,,,No,No,
+139,Los efectos de las comunicaciones de masas,"Eco, U. ; Friedmann, G. ; Halloran, J.",Editorial Jorge √Ålvarez,1969,Argentina,,,No,No,
+140,Periodismo escolar,"Fischer, R.",Editorial Biblioteca,1975,Argentina,,,No,No,
+141,"Medio ambiente y urbanizaci√≥n: Microempresas, cr√©dito y medio ambiente.",IIED-AL,IIED-AL,1995,Argentina,,,No,No,
+142,Las verdades que mienten: una an√°lisis de la ideolog√≠a represiva de los textos para ni√±os,"Bonazzi, M. ; Eco, U.",Editorial Tiempo Contempor√°neo,1974,Argentina,,,No,No,
+143,La opini√≥n p√∫blica y la propaganda,"Young, K.",Paid√≥s,1980,Argentina,,,No,No,
+144,Fin del trabajo: nuevas tecnolog√≠as contra puestos de trabajo: el nacimiento de una nueva era,"Rifkin, J.",Paid√≥s,1996,Espa√±a,,,No,No,
+145,La empresa transparente,"Borrini, A.",Atl√°ntida,1997,Espa√±a,,,No,No,
+146,Un modelo de desarrollo regional: provincia de Buenos Aires,"Hern√°ndez, R.",Ediciones Macchi,1996,Argentina,,,No,No,
+147,Sociolog√≠a de los medios masivos de comunicaci√≥n,"McQuail, D.",Paid√≥s,1979,Argentina,,,No,No,
+148,Revista de Econom√≠a: 59.,"Fundaci√≥n Friedrich Ebert, Fundaci√≥n Banco de la Provincia de C√≥rdoba",Banco de la provincia de C√≥rdoba,1990,Argentina,,,No,No,
+149,"El banco mundial: intervenci√≥n y disciplinamiento. El caso argentino, ense√±anzas para Am√©rica Latina.","Corbal√°n, M.",Biblos,2002,Argentina,,,No,No,
+150,El cambio de poder.,"Toffler, A.",Plaza y Janes,1994,Espa√±a,,,No,No,
+151,¬øQu√© son las condiciones y medio ambiente de trabajo?: Propuesta de una nueva perspectiva,"Neffa, J.",Hvmanitas,1987,Argentina,,,No,No,
+152,Revoluci√≥n tecnol√≥gica y empleo,"Tangelson, O.",Ministerio de la Producci√≥n: Instituto provincial del empleo,1993,Argentina,,,No,No,
+153,Psicoterapia psicodram√°tica,"Bustos, D.",Paid√≥s,1975,Argentina,,,No,No,
+154,Combates por la memoria: Huellas de la dictadura en la historia,"Lorenz, F.",Capital Intelectual,2007,Argentina,,,No,No,
+155,Trabajo y familia en el ciclo de vida femenino: el caso de los sectores populares de Buenos Aires,"Jelin, E. ; Feijo√≥, M.",Estudios CEDES,1980,Argentina,,,No,No,
+156,Cartas del noviazgo,"Kierkegaard, S.",Siglo Veinte,1979,Argentina,,,No,No,
+157,Interrupciones II,"Gelman, J.",Libros de Tierra Firme,1986,Argentina,,,No,No,
+158,Las incubadoras de Microempresas como estrategia de desarrollo local,"P√©rez, J. ; Celada, F. ; Sardi, R.",Ministerio de la Producci√≥n y el Empleo,1997,Argentina,,,No,No,
+159,La escena institucional,"Kononovich, B. ; Said√≥n, O.",Lugar Editorial,1991,Argentina,,,No,No,
+160,El sector microempresarial,Ministerio de la Producci√≥n: Instituto provincial del empleo,Ministerio de la Producci√≥n: Instituto provincial del empleo,1989,Argentina,,,No,No,
+161,Medio ambiente y urbanizaci√≥n: Crisis y participaci√≥n,IIED-AL,IIED-AL,2004,Argentina,,,No,No,
+162,La doble moral de la organizaciones: Los sistemas perversos y la corrupci√≥n institucionalizada,"Etkin, J.",McGraw-Hill,1993,Argentina,,,No,No,
+163,Saussure y los fundamentos de la ling√º√≠stica,"Sazb√≥n, J.",Centro Editor de Am√©rica Latina,1981,Argentina,,,No,No,
+164,Reader's nuestro que est√°s en la tierra: ensayos sobre el imperialismo cultural,"Dorfman, A.",Editorial Nueva Imagen,1980,M√©xico,,,No,No,
+165,Periodismo de investigaci√≥n,"Secanella, P.",Tecnos,1986,Espa√±a,,,No,No,
+166,La semiolog√≠a,"Guiraud, P.",Siglo XXI,1973,Argentina,,,No,No,
+167,Peque√±a empresa: Los primeros pasos. Manual del emprendedor.,CGI,CGI,1991,Argentina,,,No,No,
+168,Posicionamiento: el concepto que ha revolucionado la comunicaci√≥n publicitaria y el marketing,"Al Ries, J.",McGraw-Hill,1992,Espa√±a,,,No,No,
+169,"Comunicaci√≥n: estrategias , t√©cnicas y t√°cticas en el mercado","Bonnin, J.",Macchi,1993,Argentina,,,No,No,
+170,Instituto de la investigaci√≥n de la comunicaci√≥n social v3: Proyecto de comunicaci√≥n para la prevenci√≥n de la desnutrici√≥n,UNLP,UNLP,1986,Argentina,,,No,No,
+171,Instituto de la investigaci√≥n de la comunicaci√≥n social v4: Diagn√≥sticos y estrategias de comunicaci√≥n.,UNLP,UNLP,1984,Argentina,,,No,No,
+172,"Instituto de la investigaci√≥n de la comunicaci√≥n social v5: Comunicaci√≥n y sociedad, aproximaciones te√≥ricas.",UNLP,UNLP,1987,Argentina,,,No,No,
+173,"Instituto de la investigaci√≥n de la comunicaci√≥n social v1: Estudios sobre la televisi√≥n, programaci√≥n y efectos.",UNLP,UNLP,1987,Argentina,,,No,No,
+174,La enfermedad y sus met√°foras. EL sida y sus met√°foras.,"Sontag, S.",Taurus,2005,Argentina,,,No,No,
+175,El lenguaje y los problemas del conocimiento,"Jakobson, R. ; Barthes, R. ; Moles, A.",Editorial Rodolfo Alonso,1962,Argentina,,,No,No,
+176,Alma encadenada (Soul on ice),"Cleaver, E.",Siglo XXI,1969,Argentina,,,No,No,
+177,Rumores: El medio de difusi√≥n m√°s antiguo del mundo,"Kapferer, J.",Emec√©,1989,Argentina,,,No,No,
+178,Per√≥n y los medios de comunicaci√≥n,"Sirv√©n, P.",Centro Editor de Am√©rica Latina,1984,Argentina,,,No,No,
+179,Religiosidad popular en la Argentina,"Chapp, M. ; Iglesias, M. ; Pascual, M. ; Rold√°n, V. ; Santamar√≠a, D.",Centro Editor de Am√©rica Latina,1991,Argentina,,,No,No,
+180,Tres teor√≠as sobre la prensa: en el mundo capitalista,"Siebert, F. ; Peterson, T.",Ediciones la Flor,1967,Argentina,,,No,No,
+181,"Cultura, comunicaci√≥n y desarrollo en Am√©rica Latina","Getino, O.",Edimedios,1984,M√©xico,,,No,No,
+182,La microempresa en debate,Encuentro Nacional de la Microempresa,Encuentro Nacional de la Microempresa,1992,Argentina,,,No,No,
+183,La novena revelaci√≥n,"Redfield, J.",Atl√°ntida,1994,Argentina,,,No,No,
+184,Medios de comunicaci√≥n y cultural popular,"Ford, A. ; Rivera, J. ; Romano, E.",Legasa,1985,Argentina,,,No,No,
+185,La microempresa en una estrategia de crecimiento,"Lindemboin, J. ; Rofman, A. ; Moreno, G.",CEUR,1989,Argentina,,,No,No,
+186,Psicoterapia del oprimido,"Moffat, A.",Editorial Liberar√≠a Ecro,1974,Argentina,,,No,No,
+187,Plan estrat√©gico de desarrollo de Jun√≠n,Provincia de Jun√≠n,Provincia de Jun√≠n,2002,Argentina,,,No,No,
+188,Programa modular de formaci√≥n para el sector minero,Intemin,Intemin,1995,Argentina,,,No,No,
+189,C√≥mo analizar la gesti√≥n social municipal,Secretar√≠a de desarrollo social de la naci√≥n,Secretar√≠a de desarrollo social de la naci√≥n,1999,Argentina,,,No,No,
+190,Evaluaci√≥n del aporte econ√≥mico de la mujer al desarrollo,"Dixon-Muelle, R. ; Anker, R.",OIT,1989,Chile,,,No,No,
+191,Promoci√≥n de cooperativas y peque√±as unidades productivas dentro del sector de la econom√≠a social,OIT,ALCECOOP,1991,Argentina,,,No,No,
+192,Nuestro cine: Pasolini. Nro 46,Nuestro cine,Nuestro cine,1965,Espa√±a,,,No,No,
+193,"Migraci√≥n y frontera: cinco estudios de casos sobre las fronteras de Argentina, Brasil y Paraguay",OIM,OIM,2003,Argentina,,,No,No,
+194,La pr√°ctica de co-operar: Manual para cooperativas de trabajo,PRONATASS,Ministerio de econom√≠a y obras y servicios p√∫blicos,1994,Argentina,,,No,No,
+195,Trabajadores vulnerables y sector informal de lo econ√≥mico y normativo,"Mezzera, J. ; Vega-Ruiz, M.",OIT,1995,Chile,,,No,No,
+196,"Programas de empleo transitorio: la experiencia de los barrios bonaerenses. Aspectos conceptuales, metodol√≥gicos y operativos.",PNUD,Ministerio de Econom√≠a PBA,1999,Argentina,,,No,No,
+197,Lecturas sobre la exclusi√≥n social,"Barrios, P. ; de los R√≠os, D. ; Torche, F.",OIT,1996,Chile,,,No,No,
+198,Comunicaci√≥n y organizaci√≥n: la organizaci√≥n comunicante y la comunicaci√≥n organizada,"Bartoli, A.",Paid√≥s,1992,Espa√±a,,,No,No,
+199,Observaciones sobre la filosof√≠a de la psicolog√≠a. Volumen I,"Wittgenstein, L.",UNAM,1997,M√©xico,,,No,No,
+200,Observaciones sobre la filosof√≠a de la psicolog√≠a. Volumen II,"Wittgenstein, L.",UNAM,1997,M√©xico,,,No,No,
+201,Cooperativas para los incapacitado: su organizaci√≥n y desarrollo,OIT,OIT,1983,Argentina,,,No,No,
+202,EL gorila invisible y otras maneras en las que nuestra intuici√≥n nos enga√±a,"Chabris, C. ; Simons, D.",Siglo XXI,2011,Argentina,,,No,No,
+203,¬øPor qu√© no lo dijo antes? C√≥mo hacerse entender,"Heyman, R.",Granica,1999,Espa√±a,,,No,No,
+204,La comunicaci√≥n global: C√≥mo consturir la imagen de una empresa,"Regouby, C.",Gesti√≥ 2000,1989,Espa√±a,,,No,No,
+205,La innovaci√≥n y el empresariado innovador: La pr√°ctica y los principios,"Drucker, P.",Edhasa,1991,Espa√±a,,,No,No,
+206,Las transformaciones econ√≥micas y sociales en el nuevo orden mundial: situaci√≥n y perspectivas en la provincia de Buenos Aires,PBA,PBA,1994,Argentina,,,No,No,
+207,"Crisis, ruptura y superaci√≥n: An√°lisis transicional en psicoan√°lisis individual y grupal",Varios,Ediciones Cinco,1979,Argentina,,,No,No,
+208,Doce temas de formaci√≥n,"Agudelo, S.",CINTEFOR/OIT,1993,Uruguay,,,No,No,
+209,La microempresa: producci√≥n y empleo para el desarrollo,OIT,OIT,1991,Uruguay,,,No,No,
+210,Jornada sociolaboral: la orientaci√≥n profesional y ocupacional,Ministerio de trabajo y seguridad social (Col),Ministerio de trabajo y seguridad social (Col),1991,Colombia,,,No,No,
+211,C√≥mo realizar un proyecto de capacitaci√≥n: un efoque de la ingenier√≠a de la capacitaci√≥n,"Pain, A.",Granica,1990,Argentina,,,No,No,
+212,No matar: sobre la responsabilidad,La intemperie,La intemperie,2007,Argentina,,,No,No,
+213,"Universidad transhumante: territorios, redes y lenguajes",Colectivo Situaciones,Tinta Lim√≥n,2004,Argentina,,,No,No,
+214,Nuevas tecnolog√≠as enla ciudad: informaci√≥n y comunicaci√≥n en la cotidianeidad,"Finquelievich, S. ; Vidal, A. ; Karol, J.",Centro Editor de Am√©rica Latina,1992,Argentina,,,No,No,
+215,Obras escogidas de Mao Tsetung. Tomo I,"Tsetung, M.",Editorial del Pueblo,1971,China,,,No,No,
+216,Obras escogidas de Mao Tsetung. Tomo II,"Tsetung, M.",Editorial del Pueblo,1971,China,,,No,No,
+217,Obras escogidas de Mao Tsetung. Tomo III,"Tsetung, M.",Editorial del Pueblo,1971,China,,,No,No,
+218,Obras escogidas de Mao Tsetung. Tomo IV,"Tsetung, M.",Editorial del Pueblo,1971,China,,,No,No,
+219,El hombre telespectador,"Cazeneuve, J.",Gustavo Gili,1977,Espa√±a,,,No,No,
+220,La experiencia del foro intermunicipal de promoci√≥n del empleo,"Conato, D. ; Navarro, H. ; Lorente, P.",FORO,1996,Argentina,,,No,No,
+221,Organizaci√≥n y estructura: para la peque√±a y mediana empresa,"Fresco, J.",Macchi,1993,Colombia,,,No,No,
+222,C√≥mo preparar monograf√≠as e informes,"Standop, E.",Kapelusz,1976,Argentina,,,No,No,
+223,La comunicaci√≥n para el cambio en las organizaciones,"Morera, I.",Caeci,1993,Argentina,,,No,No,
+224,El pensamiento lateral: manual de creatividad,"de Bono, E.",Paid√≥s,1992,Argentina,,,No,No,
+225,El trabajo del actor sobre su papel,"Stanislavski, C.",Quetzal,1977,Argentina,,,No,No,
+226,El trabajo del actor sobre s√≠ mismo: en el proceso creador de las vivencias,"Stanislavski, C.",Quetzal,1977,Argentina,,,No,No,
+227,El trabajo del actor sobre s√≠ mismo: en el proceso creador de la encarnaci√≥n,"Stanislavski, C.",Quetzal,1979,Argentina,,,No,No,
+228,"Diccionario de los medios de comunicaci√≥n: t√©cnica, semiolog√≠a, ling√º√≠stica","Fages, J. ; Pagano, C.",Fernando Torres Editor,1978,Espa√±a,,,No,No,
+229,"Lenguaje, significado y contexto","Lyons, J.",Paid√≥s,1981,Espa√±a,,,No,No,
+230,La entrevista period√≠stica: intimidades de la conversaci√≥n p√∫blica,"Halper√≠n, J.",Paid√≥s,1995,Argentina,,,No,No,
+231,Identidad de las organizaciones: invariancia y cambio,"Etkin, J. ; Schvarstein, L.",Paid√≥s,1994,Argentina,,,No,No,
+232,Psicoan√°lisis y empresa: c√≥mo utilizar psiconan√°lisis para comprender la empresa,"Bruneau, J.",Granica,1991,Espa√±a,,,No,No,
+233,Antolog√≠a Po√©tica,"Corso, G.",Ediciones del Mediod√≠a,1969,Argentina,,,No,No,
+234,El trabajo: una nueva civilizaci√≥n y cultura del trabajo,"M√°spero, E.",Hvmanitas,1984,Argentina,,,No,No,
+235,El empleo en el sector informal: su integraci√≥n a las estructuras econ√≥micas,"Charmes, J.",Hvmanitas,1992,Argentina,,,No,No,
+236,La √©lite del poder,"Wright, C.",Fondo de Cultura Econ√≥mica,1969,M√©xico,,,No,No,
+237,La evoluci√≥n de las ideas argentinas. Tomo I,"Ingenieros, J.",Editorial Problemas,1946,Argentina,,,No,No,
+238,La evoluci√≥n de las ideas argentinas. Tomo II,"Ingenieros, J.",Editorial Problemas,1946,Argentina,,,No,No,
+239,La evoluci√≥n de las ideas argentinas. Tomo IV,"Ingenieros, J.",Editorial Problemas,1946,Argentina,,,No,No,
+240,Peronismo y menemismo: avatares del populismo en la Argentina,"Bor√≥n, A. ; Mora, M. ; Nun, J. ; Portantiero, J. ; Sidicaro, R.",El cielo por asalto,1995,Argentina,,,No,No,
+241,La tercera v√≠a: la renovaci√≥n de la socialdemocracia,"Giddens, A.",Taurus,1999,Espa√±a,,,No,No,
+242,Juan B. Justo: El patriarca socialista,"Portantiero, J.",Capital Intelectual,2006,Argentina,,,No,No,
+243,El di√°logo de la √©poca: Cat√≥licos y marxistas,Varios,Editorial Platina,1965,Argentina,,,No,No,
+244,Masas y √©lites en iberoam√©rica,"Palacios, A.",Columba,1956,Argentina,,,No,No,
+245,Con Per√≥n hacia el socialismo nacional,"Orellano, J.",Trasvasamiento,1973,Argentina,,,No,No,
+246,Lenin,"Stalin, J.",Ediciones en lenguas extranjeras,1946,URSS,,,No,No,
+247,La simulaci√≥n en la lucha por la vida,"Ingenieros, J.",Roggero-Ronal Editores,1952,Argentina,,,No,No,
+248,URSS '76: Anuario de la agencia de prensa N√≥vosti,Editorial de la Agencia de prensa N√≥vosti,Editorial de la Agencia de prensa N√≥vosti,1976,URSS,,,No,No,
+249,"Gabriela, clavo y canela","Amado, J.",Casa de las Am√©ricas,1975,Cuba,,,No,No,
+250,El programa de transici√≥n para la revoluci√≥n socialista,"Trotsky, L.",Ediciones Crux,-,Bolivia,,,No,No,
+251,En defensa del marxismo,"Trotsky, L.",Fontamara,1977,Espa√±a,,,No,No,
+252,La cultura filos√≥fica en Espa√±a,"Ingenieros, J.",Meridion,1955,Argentina,,,No,No,
+253,La revoluci√≥n sandinista,"Mar√≠n, J.",Anteo,1984,Argentina,,,No,No,
+254,Las t√°cticas del frente √∫nico,"Trotsky, L.",Ediciones CEPE,1973,Argentina,,,Si,Si,
+255,Acerca de la democracia socialista,"Lenin, V.",Editorial de la Agencia de prensa N√≥vosti,1969,URSS,,,No,No,
+256,La mayor,"Saer, J.",Centro Editor de Am√©rica Latina,1982,Argentina,,,Si,No,
+257,Bases y puntos de partida para la organizaci√≥n de la Rep√∫blica Argentina,"Alberdi, J.",Centro Editor de Am√©rica Latina,1979,Argentina,,,Si,Si,
+258,"Sobre la deuda imapagable de Am√©rica Latina, sus consecuencias imprevisibles y otros temas de inter√©s pol√≠tico e hist√≥rico","Castro, F.",Agencia EFE,1985,Cuba,,,No,No,
+259,Reforma o revoluci√≥n,"Luxemburgo, R.",Juan Grijalbo Editor,1967,M√©xico,,,No,No,
+260,Capitalismo e imperialismo norteamericano,"Sweexy, P.",Jorge √Ålvarez Editor,1963,Argentina,,,No,No,
+261,Lenin y la filosof√≠a,"Althusser, L.",Ediciones CEPE,1972,Argentina,,,No,No,
+262,P.T. Brasil: una respuesta latinoamericana al desaf√≠o imperialista,"Bilbao, L.",B√∫squeda Editora,1990,Argentina,,,Si,Si,
+263,Subdesarrollo y estancamiento en Am√©rica Latina,"Furtado, C.",EUDEBA,1966,Argentina,,,No,No,
+264,Alfredo L. Palacios: Un socialismo argentino para la Argentina,"Garc√≠a, V.",Centro Editor de Am√©rica Latina,1986,Argentina,,,No,No,
+265,Los socialistas independientes 1,"Sanguinetti, H:",Centro Editor de Am√©rica Latina,1987,Argentina,,,No,No,
+266,Los socialistas independientes 2,"Sanguinetti, H:",Centro Editor de Am√©rica Latina,1987,Argentina,,,No,No,
+267,El ruido y la furia,"Faulkner, W.",Ediciones C√°tedra,2005,Espa√±a,,,No,No,
+268,La metamorfosis de la cuesti√≥n social: una cr√≥nica del salariado,"Castel, R.",Paid√≥s,1997,Argentina,,,No,No,
+269,Sociolog√≠a del poder: introducci√≥n y selecci√≥n de textos: Antonio Passano,Varios,Centro Editor de Am√©rica Latina,1978,Argentina,,,No,No,
+270,El sentido pr√°ctico,"Bourdieu, P.",Siglo XXI,2007,Argentina,,,No,No,
+271,"En letras de sangre y fuego: trabajo, m√°quinas y crisis del capitalismo","Caffentzis, G.",Tinta Lim√≥n,2020,Argentina,,,No,No,
+272,La guerra de los lugares; la colonizaci√≥n de la tierra y la vivienda en la era de las finanzas,"Rolnik, R.",El Colectivo,2021,Argentina,,,No,No,
+273,Sociales en debate 05: cultura social del d√≥lar,Varios,UBA Sociales,2013,Argentina,,,No,No,
+274,El sentimiento de inseguridad: sociolog√≠a del temor al delito,"Kessler, G.",Siglo XXI,2009,Argentina,,,No,No,
+275,Revista de investigaci√≥n interdisciplinaria en m√©todos experimentales. A√±o 3: Volumen 1,IADCOM,FCE-UBA,2014,Argentina,,,No,No,
+276,Sociolog√≠a argentina,"Ingenieros, J.",Hyspamerica,1988,Argentina,,,No,No,
+277,Sur: revista mensual. 215-216,Sur,Sur,1952,Argentina,,,No,No,
+278,El 45,"Luna, F.",Sudamericana,1999,Argentina,,,No,No,
+279,Historia contempor√°nea de Am√©rica Latina,"Halperin, T.",Alianza Editorial,1983,M√©xico,,,No,No,
+280,Los secretos del Congreso,"Sued, G.",Penguin Random House,2019,Argentina,,,No,No,
+281,Historia del Siglo XX,"Hobsbawm, E.",Planeta,2021,Argentina,,,No,No,
+282,Microeconom√≠a heterodoxa: modelos sraffianos y marxistas,"Montes, G.",EUDEBA,2022,Argentina,,,No,No,
+283,Escritos sobre moneda y banca,"Fragueiro, M.",Manuel Belgrano Ediciones,2021,Argentina,,,No,No,
+284,El acuerdo entre el Mercosur y la Uni√≥n Europea: estudio integral de sus cl√°usulas y efectos,"Ghiotto, L. ; Echaide, J.",Fundaci√≥n Rosa Luxemburgo,2020,Argentina,,,No,No,
+285,Atlas del agronegocio: datos y hechos sobre la industria agr√≠cola y de alimentos,Fundaci√≥n Rosa Luxemburgo,Fundaci√≥n Rosa Luxemburgo,-,Argentina,,,No,No,
+286,Los cuadernos de don Rigoberto,"Vargas, M.",Alfaguara,2008,Argentina,,,Si,No,
+287,Fragmentos de un discurso amoroso,"Barthes, R.",Siglo XXI,2008,Argentina,,,No,No,
+288,El oficio del soci√≥logo: presupuesto epistemol√≥gicos,"Bourdieu, P.",Siglo XXI,2008,Argentina,,,No,No,
+289,Introducci√≥n a los estudios sobre genocidio,"Feierstein, D.",Fondo de Cultura Econ√≥mica,2016,Argentina,,,No,No,
+290,La muerte del pr√≥jimo,"Zoja, L.",Fondo de Cultura Econ√≥mica,2015,Argentina,,,No,No,
+291,Las formas elementales de la vida religiosa,"Durkheim, E.",Alianza Editorial,2014,Espa√±a,,,No,No,
+292,Las reglas del m√©todo sociol√≥gico,"Durkheim, E.",Colihue,2018,Argentina,,,No,No,
+293,El suicidio,"Durkheim, E.",Terramar Ediciones,2013,Argentina,,,No,No,
+294,La divisi√≥n del trabajo social,"Durkheim, E.",Akal Ediciones,2001,Argentina,,,No,No,
+295,"Manual de escritura para cient√≠ficos sociales: c√≥mo empezar y terminar una tesis, un libro o un art√≠culo","Becker, H.",Siglo XXI,2011,Argentina,,,No,No,
+296,Obras completas: Tomo 1,"Carri, R.",Ediciones Biblioteca Nacional,2015,Argentina,,,No,No,
+297,Obras completas: Tomo 2,"Carri, R.",Ediciones Biblioteca Nacional,2015,Argentina,,,No,No,
+298,La Dame aux cam√©lias,"Dumas, A.",Pocket,2020,Francia,,,No,No,
+299,"Walsh, el cript√≥grafo. Escritura y acci√≥n pol√≠tica en la obra de Rodolfo Walsh","Beatriz, S.",El Colectivo,2011,Argentina,,,Si,No,
+300,Vanguardia y posmodernismo,"Salvador, N.",Corregidor,2011,Argentina,,,No,No,
+301,La novia de Sandro,"Sosa, C.",Tusquets Editores,2020,Argentina,,,No,No,
+302,El caballero de la armadura oxidada,"Fisher, R.",Ediciones Obelisco,1999,Espa√±a,,,No,No,
+303,Obra po√©tica completa,"Vallejo, C.",Casa de las Am√©ricas,1975,Cuba,,,No,No,
+304,Cuentos completos 2 (1969-1983),"Cort√°zar, J.",Alfaguara,2016,Argentina,,,No,No,
+305,Operaci√≥n mate amargo: Dax y sus agentes secretos en B.A.,"Ramb, A.",Bit√°cora Ediciones,2021,Argentina,,,No,No,
+306,Los lanzallamas,"Arlt, R.",Centro Editor de Cultura,2005,Argentina,,,No,No,
+307,Los siete locos,"Arlt, R.",Losada,1974,Argentina,,,No,No,
+308,Del amor y otros demonios,"Garc√≠a, G.",Penguin Random House,2015,Argentina,,,Si,No,
+309,El h√©roe discreto,"Vargas, M.",Penguin Random House,2015,Argentina,,,No,No,
+310,Pantale√≥n y las visitadoras,"Vargas, M.",C√≠rculo de Editores,1974,Espa√±a,,,No,No,
+311,Cien a√±os de soledad,"Garc√≠a, G.",Penguin Random House,2016,Espa√±a,,,Si,No,
+312,Tiempo de abrazar,"Onetti, J.",Club Bruguera,1980,Espa√±a,,,Si,No,
+313,Juntacad√°veres,"Onetti, J.",Planeta,1995,Espa√±a,,,Si,No,
+314,Museo de la novela de la eterna (primera novela buena),"Fern√°ndez, M.",Corregidor,2015,Argentina,,,Si,No,
+315,Adriana Buenos Aires (√∫ltima novela mala),"Fern√°ndez, M.",Corregidor,2018,Argentina,,,Si,No,
+316,Cuentos completos 1 (1945-1966),"Cort√°zar, J.",Alfaguara,2016,Argentina,,,Si,No,
+317,La caverna,"Saramago, J.",Alfaguara,2010,Uruguay,,,Si,No,
+318,El limonero real,"Saer, J.",Seix Barral,2010,Argentina,,,Si,No,
+319,El juguete rabioso,"Arlt, R.",Club Bruguera,1981,Brasil,,,Si,No,
+320,El Aleph,"Borges, J.",Sudamericana,2016,Argentina,,,Si,No,
+321,El hombre que amaba a los perros,"Padura, L.",Tusquets Editores,2020,Argentina,,,Si,No,
+322,Las malas,"Sosa, C.",Tusquets Editores,2020,Argentina,,,Si,No,
+323,Eisejuaz,"Gallardo, S.",La Biblioteca Argentina,2000,Espa√±a,,,Si,No,
+324,Eva Luna,"Allende, I.",Penguin Random House,2015,Argentina,,,Si,No,
+325,Bajo este sol tremendo,"Busqued, C.",Anagrama,2021,Argentina,,,Si,No,
+326,1917,"Kohan, M.",Godot,2017,Argentina,,,Si,No,
+327,Ciencias morales,"Kohan, M.",Anagrama,2016,Argentina,,,Si,No,
+328,El r√≠o sin orillas,"Saer, J.",Seix Barral,2015,Argentina,,,Si,No,
+329,La ocasi√≥n,"Saer, J.",Seix Barral,2019,Argentina,,,Si,No,
+330,Los versos del Capit√°n,"Neruda, P.",Losada,1969,Argentina,,,Si,No,
+331,La bomba,"Lalana, F. ; Alm√°rcegui, J.",Bru√±o,1999,Espa√±a,,,Si,No,
+332,La sombra del gato y otros relatos de terror,"L√≥pez, C.",Alfaguara,2001,Argentina,,,Si,No,
+333,Ensayo sobre la ceguera,"Saramago, J.",Alfaguara,2018,Argentina,,,Si,No,
+334,La ciudad y los perros,"Vargas, M.",Seix Barral,1994,Espa√±a,,,Si,No,
+335,Las aventuras de un cad√°ver,"Stevenson, R.",Edicomunicaci√≥n,1999,Espa√±a,,,Si,No,
+336,El proceso,"Kafka, F.",Colihue,2012,Argentina,,,Si,No,
+337,El nombre de la rosa,"Eco, U.",Editorial Lumen,1982,Chile,,,Si,No,
+338,Si una noche de invierno un viajero,"Calvino, I.",Siruela,1999,Espa√±a,,,Si,No,
+339,Campos roturados I,"Sh√≥lojov, M.",Editorial Progreso Mosc√∫,-,Rusia,,,Si,No,
+340,Campos roturados II,"Sh√≥lojov, M.",Editorial Progreso Mosc√∫,-,Rusia,,,Si,No,
+341,Recuerdos de la casa de los muertos,"Dostoyevski, F.",Club Bruguera,1981,Espa√±a,,,Si,No,
+342,Maus,"Spiegelman, A.",Penguin Random House,2014,Argentina,,,Si,No,
+343,Cartero,"Bukowski, C.",Anagrama,2018,Espa√±a,,,Si,No,
+344,Fact√≥tum,"Bukowski, C.",Anagrama,2017,Espa√±a,,,Si,No,
+345,Tales of ordinary madness,"Bukowski, C.",Virgin Books,2009,Gran Breta√±a,,,Si,No,
+346,Adi√≥s a las armas,"Hemingway, E.",Hyspamerica,2001,Argentina,,,Si,No,
+347,El viejo y el mar,"Hemingway, E.",Penguin Random House,2005,Argentina,,,Si,No,
+348,La tercera ola. Volumen 1,"Toffler, A.",Orbis,1986,Espa√±a,,,No,No,
+349,Tar√°ntula,"Dylan, B.",Oc√©ano,2013,Espa√±a,,,Si,No,
+350,Blade Runner,"Dick, P.",Edhasa,2010,Espa√±a,,,Si,No,
+351,Dune,"Herbert, F.",Penguin Random House,2024,Argentina,,,Si,No,Mar√≠a Ramella
+352,El mes√≠as de Dune,"Herbert, F.",Penguin Random House,2024,Argentina,,,Si,No,
+353,El perfume,"S√ºskind, P.",Seix Barral,1990,Argentina,,,Si,No,
+354,Demian,"Hesse, H.",Argonauta,2020,Argentina,,,Si,No,
+355,El lobo estepario,"Hesse, H.",Liburua,2014,M√©xico,,,Si,No,
+356,Fuga sin fin,"Roth, J.",Ediciones de la banda oriental,2014,Uruguay,,,Si,No,Regalado
+357,El ni√±o con el pijama de rayas,"Boyne, J.",Salamandra,2012,Argentina,,,Si,No,
+358,El coraz√≥n de las tinieblas,"Conrad, J.",Alianza Editorial,1981,Espa√±a,,,Si,No,
+359,Hambre,"Hamsun, K.",Editores mexicanos unidos,2015,M√©xico,,,Si,No,
+360,Secretos imperfectos. Serie Bergman 1,"Hjorth, M. ; Rosenfeldt, H.",Planeta,2020,Argentina,,,Si,No,
+361,Cr√≠menes duplicados. Serie Bergman 2,"Hjorth, M. ; Rosenfeldt, H.",Planeta,2020,Argentina,,,Si,No,
+362,Tokio Blues: Norwegian Wood,"Murakami, H.",Tusquets Editores,2009,Argentina,,,Si,No,Ana Waisbein
+363,La ¬ønueva? Estructura social de Am√©rica Latina,"Benza, G. ; Kessler, G.",Siglo XXI,2020,Argentina,,,Si,Si,
+364,Escenarios energ√©ticos en Am√©rica Latina: debates frente al ocaso del capitalismo f√≥sil,Fundaci√≥n Rosa Luxemburgo,Fundaci√≥n Rosa Luxemburgo,2024,Argentina,,,Si,Si,
+365,Riesgo pa√≠s: la jerga financiera como mecanismo de poder,"Aronskind, R.",Capital Intelectual,2007,Argentina,,,Si,Si,
+366,La econom√≠a de las desigualdades: c√≥mo implementar una redistribuci√≥n justa y eficaz de la riqueza,"Piketty, T.",Siglo XXI,2015,Argentina,,,Si,Si,
+367,La nueva pobreza en la Argentina,"Minuj√≠n, A. ; Kessler, G.",Planeta,1995,Argentina,,,Si,Si,
+368,"Controversias sobre la desigualdad. Argentina, 20003-2013","Kessler, G.",Fondo de Cultura Econ√≥mica,2014,Argentina,,,Si,Si,
+369,Desiguales: una gu√≠a para pensar la desigualdad econ√≥mica,"Gasparini, L.",Edhasa,2022,Argentina,,,Si,Si,
+370,Introducci√≥n a la econom√≠a,"Dobb, M.",Fondo de Cultura Econ√≥mica,2017,M√©xico,,,Si,Si,
+371,Pensamiento econ√≥mico de Manuel Belgrano: selecci√≥n de art√≠culos del Correo de Comercio 1810-1811,"Belgrano, M.",Manuel Belgrano Ediciones,2021,Argentina,,,Si,Si,
+372,Qu√© es (y qu√© no es) la estad√≠stica: usos y abusos de una disciplina clave en la vida de los pa√≠ses y las personas,"Sosa, W.",Siglo XXI,2014,Argentina,,,Si,Si,
+373,Big data: breve manual para conocer la ciencia de datos que ya invadi√≥ nuestras vidas,"Sosa, W.",Siglo XXI,2020,Argentina,,,Si,Si,
+374,Historia de la sexualidad. 1. La voluntad de saber,"Foucault, M.",Siglo XXI,2020,Argentina,,,Si,Si,
+375,Historia de la sexualidad. 4. Las confesiones de la carne,"Foucault, M.",Siglo XXI,2019,Argentina,,,Si,Si,
+376,La verdad y las formas jur√≠dicas,"Foucault, M.",Gedisa,2014,Argentina,,,Si,Si,
+377,"El origen de la hermen√©utica de s√≠: Conferencias de Dartmouth, 1980","Foucault, M.",Siglo XXI,2016,Argentina,,,Si,Si,
+378,Los espantos: est√©tica y postdictadura,"Schwarzb√∂ck, S.",Cuarenta R√≠os,2018,Argentina,,,Si,Si,
+379,Realismo capitalista: ¬øNo hay alternativa?,"Fisher, M.",Caja Negra,2022,Argentina,,,Si,Si,
+380,"Fake news, trolls y otros encantos: c√≥mo funcionan (para bien y para mal) las redes sociales","Calvo, E. ; Aruguete, N.",Siglo XXI,2020,Argentina,,,Si,Si,
+381,Las nuevas caras de la derecha: ¬øPor qu√© funcionan las propuestas vac√≠as y el dicurso enfurecido de los antisistema y cu√°l es su potencial pol√≠tico real?,"Traverso, E.",Siglo XXI,2021,Argentina,,,Si,Si,
+382,¬øQu√© hacemos con Menem?: los noventa veinte a√±os despu√©s,"Rodr√≠guez, M. ; Touzon, P.",Siglo XXI,2021,Argentina,,,Si,Si,
+383,Los debates de la Dieta Renana,"Marx, K.",Gedisa,2007,Espa√±a,,,Si,Si,
+384,La √©tica protestante y el esp√≠ritu del capitalismo,"Weber, M.",Akal Ediciones,2019,Espa√±a,,,Si,Si,
+385,Sociolog√≠a de una revoluci√≥n,"Fanon, F.",Tinta Lim√≥n,2024,Argentina,,,Si,Si,
+386,Argelia 60: estructuras econ√≥micas y estructuras temporales,"Bourdieu, P.",Siglo XXI,2013,Argentina,,,Si,Si,
+387,Las estrategias de la reproducci√≥n social,"Bourdieu, P.",Siglo XXI,2018,Argentina,,,Si,Si,
+388,Los herederos: los estudiantes y la cultura,"Bourdieu, P. ; Passeron, J.",Siglo XXI,2014,Argentina,,,Si,Si,
+389,"La √©poca de las pasiones tristes: de c√≥mo este mundo desigual lleva a la frustraci√≥n y el resentimiento, y desalienta la lucha por una sociedad mejor","Dubet, F.",Siglo XXI,2021,Argentina,,,Si,Si,
+390,La filosof√≠a como arma de la revoluci√≥n,"Althusser, L.",Siglo XXI,2016,M√©xico,,,Si,Si,
+391,El sublime objeto de la ideolog√≠a,"Zizek, S.",Siglo XXI,2019,Argentina,,,Si,Si,
+392,El pr√≠ncipe. Discursos sobre la primera d√©cada de Tito Livio. La mandr√°gora. Clicia.,Maquiavelo,Vergara,1961,Espa√±a,,,No,No,
+393,"Leviat√°n. O la materia, forma y poder de una rep√∫blica eclesi√°stica y civil.","Hobbes, T.",Fondo de Cultura Econ√≥mica,2017,M√©xico,,,Si,No,
+394,El capital. Tomo 1. Volumen 1.,"Marx, K.",Siglo XXI,2015,Argentina,,,Si,Si,
+395,El capital. Tomo 1. Volumen 2.,"Marx, K.",Siglo XXI,2016,Argentina,,,Si,Si,
+396,El capital. Tomo 1. Volumen 3.,"Marx, K.",Siglo XXI,2016,Argentina,,,Si,No,
+397,Antolog√≠a. Selecci√≥n e introducci√≥n de Horacio Tarcus.,"Marx, K.",Siglo XXI,2016,Argentina,,,Si,Si,
+398,La pesquisa,"Saer, J.",-,-,Argentina,,,Si,No,Jos√© Luis Fern√°ndez
+399,Magnetizado,"Busqued, C.",-,-,Argentina,,,Si,No,Laura Bruno
+400,Antolog√≠a Po√©tica,"Hern√°ndez, M.",-,-,Espa√±a,,,Si,No,
+401,Dolor pa√≠s,"Bleichmar, S.",Zorzal,2002,Argentina,,,Si,Si,
+402,Cambio de √âpoca,"Svampa, M.",Siglo XXI,-,Argentina,,,Si,No,Malena Silveyra
+403,Un mago de Terramar,"Le Guin, U.",-,-,-,,,Si,No,Ignacio Fern√°ndez
+404,Ejemplares √∫nicos,"Rago, P.",Bajo La Luna,-,Argentina,,,Si,No,Delfina Lemann
+405,La era de la revoluci√≥n (1789-1848),"Hobsbawm, E.",Paid√≥s,2020,Argentina,,,Si,No,
+406,La era del capital (1848-1875),"Hobsbawm, E.",Paid√≥s,2020,Argentina,,,Si,No,
+407,La era del imperio (1875-1914),"Hobsbawm, E.",Paid√≥s,2020,Argentina,,,Si,No,
+408,Historia del Siglo XX,"B√©jar, M.",Siglo XXI,2018,Argentina,,,Si,No,
+409,Escritos latinoamericanos. En M√©xico (1937-1940),"Trostsky, L.",IPS,2013,Argentina,,,Si,No,
+410,La teor√≠a de la revoluci√≥n permanente,"Trostsky, L.",IPS,2011,Argentina,,,Si,No,
+411,Las venas abiertas de Am√©rica Latina,"Galeano, E.",Siglo XXI,2012,Argentina,,,Si,No,
+412,Con Trotsky de Prinkipo a Coyoac√°n: testimonios de siete a√±os de exilio.,"van Heijenoort, J.",IPS,2014,Argentina,,,Si,No,
+413,Diario de una temporada en el quinto piso: episodios de pol√≠tica econ√≥mica en los a√±os de Alfons√≠n,"Torre, J.",Edhasa,2024,Argentina,,,Si,No,Fede Arrachea
+414,Hermes Binner: primer gobernador socialista de la Argentina. Di√°logos.,"Attala, D.",Losada,2011,Argentina,,,Si,No,
+415,Sinceramente,"Fern√°ndez, C.",Sudamericana,2019,Argentina,,,Si,No,
+416,Radiograf√≠a de la corrupci√≥n PRO de la ciudad a la presidencia de la naci√≥n,"Maradeo, J. ; Damiani, I.",Planeta,2018,Argentina,,,Si,No,
+417,Nadie vio Matrix,"Graziano, W.",Planeta,2008,Argentina,,,Si,No,
+418,Ezeiza,"Verbitsky, H.",Editorial Contrapunto,1986,Argentina,,,Si,Si,
+419,"Obra period√≠stica: cr√≥nicas, entrevistas y perfiles 1952-1972","Urondo, F.",Adriana Hidalgo,2013,Argentina,,,Si,No,
+420,Reportaje al pie de la horca,"Fucik, J.",Ediciones Silaba,1978,Argentina,,,Si,No,
+421,Represi√≥n franquista en el frente norte,"Roder, J. ; Moreno, J. ; Castrillo, J.",Eneida,2008,Espa√±a,,,Si,No,
+422,El Estado y la revoluci√≥n,"Lenin, V.",Sol 90,2012,Argentina,,,Si,No,
+423,Las fuerzas morales,"Ingenieros, J.",Agebe,2006,Argentina,,,Si,No,
+424,El peronismo y el golpe de Estado - 1966,"Cooke, J.",Acci√≥n Revolucionaria Socialista,1966,Argentina,,,No,No,
+425,Soci√≥log@s para qu√©? A√±o 17. N√∫mero 12. Abril 2012,El Viejo Topo,El Viejo Topo,2012,Argentina,,,No,No,
+426,Crisis #62,Crisis,Crisis,2024,Argentina,,,Si,No,
+427,Crisis #63,Crisis,Crisis,2024,Argentina,,,Si,No,
+428,Crisis #64,Crisis,Crisis,2024,Argentina,,,Si,No,
+429,Crisis #65,Crisis,Crisis,2024,Argentina,,,Si,No,
+430,Sarmiento: anecdotario.,"Mortillaro, G.",Editorial Araujo,1938,Argentina,,,No,No,
+431,Sarmiento y la ley 1420,"Campobassi, J.",Departamento de extensi√≥n universitaria de la universidad nacional del litoral,1960,Argentina,,,No,No,
+432,"Samiento. Sus ideas sobre religi√≥n, educaci√≥n y laicismo. Respuesta a un libro antisarmientista.","Campobassi, J.",Ediciones de la Liga Argentina de Cultura Laica,1963,Argentina,,,No,No,
+433,Revista del Museo Hist√≥rico Sarmiento. N√∫meros 12 y 13,Revista del Museo Hist√≥rico Sarmiento,Subsecretar√≠a de Cultura,1967,Argentina,,,No,No,
+434,Obras Completas 47,"Sarmiento, D.",Editorial Luz del D√≠a,1956,Argentina,,,No,No,
+435,Obras Completas 51,"Sarmiento, D.",Editorial Luz del D√≠a,1956,Argentina,,,No,No,
+436,Obras Completas 49,"Sarmiento, D.",Editorial Luz del D√≠a,1956,Argentina,,,No,No,
+437,Obras Completas 52,"Sarmiento, D.",Editorial Luz del D√≠a,1956,Argentina,,,No,No,
+438,Bolet√≠n Sarmiento 2,√ìrgano del Instituto Sarmiento de Sociolog√≠a e Historia,√ìrgano del Instituto Sarmiento de Sociolog√≠a e Historia,1965,Argentina,,,No,No,
+439,La peste,"Camus, A.",Sudamericana,1995,Espa√±a,,,Si,No,
+440,Viajar al futuro (y volver para contarlo). La ciencia detr√°s de los pron√≥sticos.,"Sosa, W.",Siglo XXI,2024,Argentina,,,Si,Si,Jime Arregui
+441,Macroeconom√≠a,"Blanchard, O.",Pearson,2025,Argentina,,,No,No,
+442,High Inflation,"Heymann, D. ; Leijonhufvud, A.",Clarendon Express - Oxford,2024,Argentina,,,No,No,
+443,Argentina Humana: Teor√≠a y pr√°ctica para la justicia social en el siglo XXI. Un proyecto contracultural.,"Grabois, J.",Sudamericana,2024,Argentina,,,Si,Si,Laura Bruno
+444,Pandemia: un balance social y pol√≠tico de la crisis del COVID-19,"Feierstein, D.",Fondo de Cultura Econ√≥mica,2021,Argentina,,,Si,Si,
+445,De alemanes a nazis (1914-1933),"Fritzsche, P.",Siglo XXI,2022,Argentina,,,Si,Si,
+446,Bourdieu hoy,Varios,Aurelia Rivera Libros,2021,Argentina,,,Si,Si,
+447,El contrato social,"Rousseau, J.",Casa Editorial Maucci,?,Espa√±a,,,No,No,
+448,"Borges, Big Data y Yo","Sosa, W.",Siglo XXI,2021,Argentina,,,Si,Si,
+449,"H-Industria: Revista de historia de la industria, los servicios y las empresas en Am√©rica Latina. Nros 4-5. A√±o III",FCE-UBA,FCE-UBA,2003,Argentina,,,No,No,
+450,El genocidio como pr√°ctica social,"Feierstein, D.",Fondo de Cultura Econ√≥mica,2023,Argentina,,,Si,Si,
+451,Identity Economics,"Akerlof, G: ; Kranton, R.",Princeton University Press,2010,EEUU,,,Si,Si,
+452,Crisis #66,Crisis,Crisis,2025,Argentina,,,Si,No,
+453,Crisis #67,Crisis,Crisis,2025,Argentina,,,Si,No,
+454,Estudios sobre los or√≠genes del peronismo,"Murmis, M. ;Portantiero, J.",Siglo XXI,2018,Argentina,,,No,No,
+455,La sociedad cortesana,"El√≠as, N.",Fondo de Cultura Econ√≥mica,2016,M√©xico,,,No,No,
+456,Social and behavioural macroeconomics. Theoretical and policy perspectives,"Tsoukis, C. ; Tournemaine, F. ; Driffill, E.",Palgrave Macmillan,2025,Suiza,,,Si,Si,
+457,Orgullo y prejuicio,"Austen, J.",Edimat,2019,Espa√±a,,,No,No,
+458,Los libros de Terramar II. Las tumbas de Atuan.,"Le Guin, U.",Minotauro,2000,Espa√±a,,,No,No,Ignacio Fern√°ndez
+459,Los libros de Terramar II. Las costa m√°s lejana.,"Le Guin, U.",Minotauro,2004,Argentina,,,No,No,Ignacio Fern√°ndez
+460,"La era del hartazgo. L√≠deres disruptivos, polarizaci√≥n y antipol√≠tica en Am√©rica Latina.","Kessler, G.; Vommaro; G.",Siglo XXI,2025,Argentina,,,Si,Si,
+461,La alienaci√≥n como fractura l√≥gica y ontol√≥gica en la ecolog√≠a del capital: sobre el abordaje marxista de la crisis clim√°tica.,"Ramella, M.",FFyL-UBA,2025,Argentina,,,Si,Si,
+462,Crisis de la dictadura argentina. Pol√≠tica econ√≥mica y cambio social (1976-1983),"Jozami, E. ; Paz, P. ; Villareal, J.",Siglo XXI,1985,Argentina,,,Si,Si,
+463,El asalto al cielo,"Jacoby, R.",Mansalva,2014,Argentina,,,Si,Si,
+464,Borges por Piglia,"Piglia, R.",Eterna Cadencia Editora,2024,Argentina,,,No,No,
+465,Niebla,"Unamuno, M.",Ediciones del Viento,2014,Espa√±a,,,Si,No,
+466,Consideraciones sobre el marxismo occidental,"Anderons, P.",Siglo XXI,2021,M√©xico,,,Si,Si,
+467,"Melancol√≠a de izquierda. Marxismo, historia y memoria.","Traverso, E.",Fondo de Cultura Econ√≥mica,2018,Argentina,,,No,No,
+468,El eternauta,"Oesterheld, H. ; Solano, F.",Planeta,2025,Argentina,,,Si,Si,
+469,El infinito en un junco. La invenci√≥n de los libros en el mundo antiguo.,"Vallejo, I.",Penguin Random House,2022,Espa√±a,,,Si,No,
+470,El secreto at√≥mico de Huemul. Cr√≥nica del origen de la energ√≠a at√≥mica en Argentina.,"Mariscotti, M.",Lenguaje Claro Editora,2016,Argentina,,,Si,No,Ciro Hartmann
+471,Crisis #68,Crisis,Crisis,2025,Argentina,,,Si,No,
+472,Crisis #69,Crisis,Crisis,2025,Argentina,,,Si,No,
+473,El perjuirio de la nieve,"Bioy, A.",Colihue,2011,Argentina,,,Si,No,
+474,Las estructuras sociales de la econom√≠a,"Bourdieu, P.",Manantial,2001,Argentina,,,No,No,
+475,"Entre la equidad y el crecimiento. Ascenso y ca√≠da de la econom√≠a argentina, 1880-2002.","Llach, L. ; Gerchunoff, P.",Siglo XXI,2004,Argentina,,,Si,Si,
+476,Exilio,"Gelman, J. ; Bayer, O.",Legasa,1984,Argentina,,,Si,No,
+477,Operaci√≥n Masacre,"Walsh, R.",Ediciones de la Flor,1972,Argentina,,,No,No,
+478,Per√≥n por Per√≥n. Los m√°s importantes discursos y mensajes 1943-1973.,"Del R√≠o, A.",Kikiy√≥n,1972,Argentina,,,No,No,
+479,Per√≥n - Per√≥n. 1973-1976.,"Di Tella, G.",Sudamericana,1983,Argentina,,,No,No,
+480,El loro de Flaubert,"Barnes, J.",Anagrama,2013,Argentina,,,Si,No,
+481,La rid√≠cula idea de no volver a verte,"Montero, R.",Seix Barral,2013,Argentina,,,Si,No,
+482,La insoportable levedad del ser,"Kundera, M.",Tusquets Editores,2007,Argentina,,,Si,No,
+483,La muerte de la familia,"Cooper, D.",Planeta,1986,Espa√±a,,,No,No,
+484,Crisis #70,Crisis,Crisis,2025,Argentina,,,No,No,
+485,El hombre mediocre,"Ingenieros, J.",Losada,1997,Argentina,,,No,No,
+486,Perestroika. Nuvas ideas para nuestro pa√≠s y el mundo.,"Gorbachov, M.",Emec√©,1998,Argentina,,,No,No,
+487,Sociolog√≠a de Marx,"Lefebvre, H.",Editorial Eureka,1970,Uruguay,,,No,No,
+488,Modernidad L√≠quida,"Bauman, Z.",Fondo de Cultura Econ√≥mica,2015,Argentina,,,No,No,
+489,Ad√°n Buenosayres,"Marechal, L.",Clar√≠n,2000,Espa√±a,,,No,No,
+490,La sangre derramada. Ensayo sobre la violencia pol√≠tica.,"Feinmann, J.",Ariel,1999,Argentina,,,No,No,
+491,El jefe. Vida y obra de Carlos Sa√∫l Menem.,"Cerruti, G.",Planeta,1993,Argentina,,,No,No,
+492,Cantar del Cid,"Men√©ndez, R. ; Reyes, A.",ESPASA-CALPE,1976,Espa√±a,,,No,No,
+493,Meditaciones metaf√≠sicas,"Descartes, R.",Aguilar,1970,Argentina,,,No,No,
+494,El ciclo de la revoluci√≥n contempor√°nea,"Romero, J.",Editorial Huemul,1980,Argentina,,,No,No,
+495,El marxismo de indias,"Abelardo, J.",Planeta,1973,Espa√±a,,,No,No,
+496,"1940-1975 Gran Breta√±a, Estados Unidos y las clases dirigentes argentinas.","Rapoport, M.",Editorial de Belgrano,1980,Argentina,,,No,No,
+497,Lecciones de octubre. ¬øQu√© fue la revoluci√≥n rusa?,"Trostsky, L.",El Yunque Editora,1975,Argentina,,,No,No,
+498,Radiograf√≠a de la Pampa,"Mart√≠nez, E.",Hyspamerica,1986,Argentina,,,No,No,
+499,"Las nuevas sociolog√≠as. Principales corrientes y debates, 1980-2010.","Corcuff, P.",Siglo XXI,2013,Argentina,,,No,No,
+500,Una invitaci√≥n a la sociolog√≠a reflexiva,"Bourdieu, P.",Siglo XXI,,Argentina,,,No,No,
+501,Revista Realidad Econ√≥mica #200,IADE,IADE,2003,Argentina,,,No,No,
+502,Revista Realidad Econ√≥mica #242,IADE,IADE,2009,Argentina,,,No,No,
+503,Revista Realidad Econ√≥mica #245,IADE,IADE,2009,Argentina,,,No,No,
+504,Revista Realidad Econ√≥mica #251,IADE,IADE,2010,Argentina,,,No,No,
+505,Revista Realidad Econ√≥mica #259,IADE,IADE,2011,Argentina,,,No,No,
+506,Revista Desarrollo Econ√≥mico vol 53 #209-210,IDES,IDES,2013,Argentina,,,No,No,
+507,Revista Desarrollo Econ√≥mico vol 50 #199,IDES,IDES,2010,Argentina,,,No,No,
+508,Revista Desarrollo Econ√≥mico vol 25 #99,IDES,IDES,1985,Argentina,,,No,No,
+509,Revista Desarrollo Econ√≥mico vol 18 #70,IDES,IDES,1978,Argentina,,,No,No,
+510,Revista Desarrollo Econ√≥mico vol 6 #22-23,IDES,IDES,1966,Argentina,,,No,No,
+511,Revista Desarrollo Econ√≥mico vol 3 #1-2,IDES,IDES,1963,Argentina,,,No,No,
+512,Experiencia mexicana en aceleradores de part√≠culas,"De la Paz, M.",Siglo XXI,2004,M√©xico,,,No,No,
+513,Tendencia y ciclo en econom√≠a. Teor√≠a y evidencia emp√≠rica.,"Mendoza, G.",UNAM,2015,M√©xico,,,No,No,
+514,Bartleby. El escribiente (adaptaci√≥n).,"Molina, E.",Latino Toons,2024,M√©xico,,,Si,No,
+515,Herbert West: reanimador (adaptaci√≥n).,"Molina, E.",Latino Toons,2023,M√©xico,,,No,No,
+516,Econom√≠a Informa #451,FEUNAM,UNAM,2025,M√©xico,,,No,No,
+517,Crisis pol√≠tica y guerra en El Salvador,"Gordon, S.",Siglo XXI,1989,M√©xico,,,No,No,
+518,Teor√≠a de juegos. Una introducci√≥n matem√°tica a la toma de decisiones.,"Amster, P. ; Pinasco, J.",Fondo de Cultura Econ√≥mica,2014,M√©xico,,,Si,Si,
+519,La cara esf√©rica,"P√©rez-Reverte, A.",Alfaguara,2000,Espa√±a,,,No,No,
+520,La crisis econ√≥mica en Am√©rica Latina. Alcances e impactos.,"Machinea, J.",Siglo XXI,2010,Espa√±a,,,No,No,
+521,Por qui√©n doblan las campanas,"Hemingway, E.",Epoca,-,M√©xico,,,Si,No,
+522,El llano en llamas,"Rulfo, J.",Fondo de Cultura Econ√≥mica,1975,M√©xico,,,Si,No,
+523,La velocidad de la luz,"Cercas, J.",Penguin Random House,2015,M√©xico,,,Si,No,
+524,La gran transformaci√≥n. Los or√≠genes pol√≠ticos y econ√≥micos de nuestro tiempo.,"Polanyi, K.",Fondo de Cultura Econ√≥mica,2017,M√©xico,,,No,No,
+525,"Brasil, 2000. Hacia un nuevo pacto social.","Jaguaribe, H. ; dos Santos, W. ; de Paiva Abreu, M. ; Fritsch, W. ; Bastos de √Åvila, F.",Fondo de Cultura Econ√≥mica,1989,M√©xico,,,Si,Si,
+526,El mago del Kremlin,"da Empoli, G.",Seix Barral,2023,M√©xico,,,Si,No,
+527,El infierno tan temido y otros cuentos,"Onetti, J.",Fondo de Cultura Econ√≥mica,2025,M√©xico,,,No,No,
+528,Geograf√≠as,"Benedetti, M.",Fondo de Cultura Econ√≥mica,2025,M√©xico,,,Si,No,
+529,La guerra de los mundos,"Wells, H.",Mirlo Ediciones,2024,China,,,Si,No,
+530,El extra√±o caso del Dr. Jekyll y Mr. Hyde,"Stevenson, R. L.",Mirlo Ediciones,2025,China,,,Si,No,
+531,Soldados de Salamina,"Cercas, J.",Penguin Random House,2017,M√©xico,,,Si,No,
+532,Barbarie. Seminario Did√°ctica.,"Glazman, R.",FFL UNAM,2016,M√©xico,,,No,No,
+533,"Estado, poder y socialismo","Poulantzas, N.",Siglo XXI,1980,Espa√±a,,,No,No,
+534,La edad media,"Romero, J. L.",Fondo de Cultura Econ√≥mica,2025,M√©xico,,,Si,Si,
+535,"De paganos, jud√≠os y cristianos","Momigliano, A.",Fondo de Cultura Econ√≥mica,2025,M√©xico,,,No,No,
+536,Filosof√≠a de la liberaci√≥n,"Dussel, E.",Fondo de Cultura Econ√≥mica,2025,M√©xico,,,No,No,
+537,"I, Claudius","Graves, R.",Penguin Random House,1961,EEUU,,,No,No,
+538,Fouch√©. El genio tenebroso.,"Zweig, S.",Editorial √âpoca,2008,M√©xico,,,No,No,
+539,Sandokan: La mujer pirata.,"Salgari, E.",Editorial Porr√∫a,1988,M√©xico,,,No,No,
+540,Brida,"Coelho, P.",Grijalbo,2004,M√©xico,,,No,No,
+541,En la Patagonia,"Chatwin, B.",Quinteto,2002,Espa√±a,,,Si,No,
+542,Patagonia Express,"Sep√∫lveda, L.",Tusquets Editores,1996,M√©xico,,,Si,No,
+543,"El laberinto de la soledad. Postdata. Vuelta a ""El laberinto de la soledad"".","Paz, O.",Fondo de Cultura Econ√≥mica,2004,M√©xico,,,No,No,
+544,El se√±or de Bembibre. El lago de Carucedo. Art√≠culos de costumbres.,"Gil y Carrasco, E.",Editorial Porr√∫a,1984,M√©xico,,,No,No,
+545,La teor√≠a del crecimiento equilibrado,"Dixit, A. K.",Fondo de Cultura Econ√≥mica,1987,M√©xico,,,No,No,
+546,Teor√≠a y experiencia del desarrollo econ√≥mico,"Gersovitz, M. ; D√≠az-Alejandro, C. F. ; Ranis, G. ; Rosenzweig, M. R.",Fondo de Cultura Econ√≥mica,1985,M√©xico,,,No,No,
+547,Teor√≠a econ√≥mica en retrospecci√≥n,"Blaug, M.",Fondo de Cultura Econ√≥mica,2001,M√©xico,,,No,No,
+548,La promesa de la privatizaci√≥n. Un desaf√≠o para la pol√≠tica exterior de los Estados Unidos.,"Vernon, R.",Fondo de Cultura Econ√≥mica,1995,Chile,,,No,No,
+549,Los mercaderes y el capitalismo en M√©xico (1759-1778).,"Borchart de Moreno, C. R.",Fondo de Cultura Econ√≥mica,1984,M√©xico,,,No,No,
+550,Los detectives salvajes,"Bola√±o, R.",Penguin Random House,2025,M√©xico,,,Si,No,
+551,El Capital. Libro I Cap√≠tulo VI (in√©dito). Resultados del proceso inmediato de producci√≥n.,"Marx, K.",Siglo XXI,2019,M√©xico,,,No,No,
+552,Retornamos como sombras,"Taibo II, P. I.",Planeta,2020,M√©xico,,,No,No,
+553,"Behemoth. Violencia colectiva, pol√≠tica y criminal en el M√©xico contempor√°neo.","Estrada Saavedra, M.",El Colegio de M√©xico,2025,M√©xico,,,No,No,
+554,Che Guevara: Instant√°neas flashes momentos.,"Taibo II, P. I.",Utopix,2022,M√©xico,,,No,No,
+555,En los ojos de los gatos,"Renter√≠a, E.",Tusquets Editores,2008,M√©xico,,,No,No,
+556,El evangelio seg√∫n Jesucristo,"Saramago, J.",Alfaguara,2019,M√©xico,,,No,No,
+557,El loco en el fin del mundo,"Cercas, J.",Penguin Random House,2025,M√©xico,,,No,No,
