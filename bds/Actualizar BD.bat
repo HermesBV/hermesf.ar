@@ -42,4 +42,15 @@ IF ERRORLEVEL 1 (
 )
 
 echo Proceso completado correctamente.
+
+REM update gh pages
+
+quarto publish gh-pages --no-browser --no-prompt
+
+IF ERRORLEVEL 1 (
+    echo Error al publicar GitHub Pages con Quarto.
+    pause
+    exit /b 1
+)
+
 endlocal

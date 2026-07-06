@@ -36,8 +36,3 @@ quarto preview    # preview en vivo con hot-reload
 quarto render     # genera _site/
 quarto publish gh-pages  # publica en GitHub Pages
 ```
-
-## Problema del CSV resuelto
-El path `../bds/Biblioteca.csv` es relativo al HTML renderizado en `_site/pages/`.
-Quarto copia `bds/` al output gracias a `resources: - bds/` en `_quarto.yml`.
-El script también elimina el BOM (﻿) que tenía tu CSV exportado desde Excel.
