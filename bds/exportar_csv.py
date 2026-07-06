@@ -2,8 +2,8 @@ import pandas as pd
 import os
 import sys
 
-XLSX = r"E:\CODE\hermesfar\bds\Biblioteca.xlsx"
-CSV  = r"E:\CODE\hermesfar\bds\Biblioteca.csv"
+XLSX = r"D:\CODE\hermesfar\bds\Biblioteca.xlsx"
+CSV  = r"D:\CODE\hermesfar\bds\Biblioteca.csv"
 
 print("Leyendo Excel...")
 try:
