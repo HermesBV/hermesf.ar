@@ -42,5 +42,4 @@ IF ERRORLEVEL 1 (
 )
 
 echo Proceso completado correctamente.
-pause
 endlocal
