@@ -70,7 +70,7 @@ Navegá por toda la colección. Podés ordenar por cualquier columna haciendo cl
           titulo:    c[0]||'', autor: c[1]||'',
           editorial: c[2]||'', anio:  c[3]||'',
           pais:      c[4]||'',
-          prestado:  (c[5]||'').toLowerCase() === 'sí'
+          prestado:  (c[5]||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '') === 'si'
         };
       });
       render();

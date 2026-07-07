@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: _site
   resources:
-    - bds/
+    - bds/Biblioteca.csv
     - img/
     - pages/Presentaciones/
 
