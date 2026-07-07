@@ -52,5 +52,5 @@ IF ERRORLEVEL 1 (
     pause
     exit /b 1
 )
-
+pause
 endlocal
